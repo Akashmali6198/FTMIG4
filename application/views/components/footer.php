@@ -96,14 +96,14 @@ display:block!important
         <img src="assets/images/logo.png" class="foot-logo" alt="ftmig">
       </a>
     </li>
-    <li><a href="">Signup/Login</a></li>
-    <li><a href="about.php">About</a></li>
-    <li><a href="invest.php">Invest</a></li>
-    <li><a href="raise.php">Raise</a></li>
-    <li><a href="host.php">Host</a></li>
-    <li><a href="demo.php">Demo</a></li>
-    <li><a href="pricing.php">Pricing</a></li>
-    <li><a href="security.php">Security</a></li>
+    <li><a href="<?php echo base_url("login");?>">Signup/Login</a></li>
+    <li><a href="<?php echo base_url("about");?>">">About</a></li>
+    <li><a href="<?php echo base_url("invest");?>">Invest</a></li>
+    <li><a href="<?php echo base_url("raise");?>">Raise</a></li>
+    <li><a href="<?php echo base_url("host");?>">Host</a></li>
+    <li><a href="<?php echo base_url("demo");?>">Demo</a></li>
+    <li><a href="<?php echo base_url("pricing");?>">Pricing</a></li>
+    <li><a href="<?php echo base_url("security");?>">Security</a></li>
   </ul>
   <hr style="border:solid gray 1px">
   </div>

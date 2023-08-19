@@ -137,4 +137,16 @@ class WebController extends CI_Controller {
 		$this->load->view('browse-events.php');
 		$this->load->view('components/footer.php');   
 	}
+	
+	public function upcoming_webinar(){
+	    $this->load->view('components/header.php');
+		$this->load->view('upcoming_webinar.php');
+		$this->load->view('components/footer.php');   
+	}
+	public function 	Conferences(){
+	    $this->load->view('components/header.php');
+		$this->load->view('	Conferences.php');
+		$this->load->view('components/footer.php');   
+	}
+
 }

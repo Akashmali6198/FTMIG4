@@ -64,6 +64,9 @@ $route['home'] = 'WebController/index';
 $route['browse_events'] = 'WebController/browse_events';
 $route['tv'] = 'WebController/tv';
 $route['event'] = 'WebController/event';
+$route['upcoming_webinar'] = 'WebController/upcoming_webinar';
+$route['Conferences'] = 'WebController/Conferences';
+
 // $route->post('storeevent', 'WebController::StoreEvent');
 $route['storeevent'] = 'WebController/StoreEvent';
 
