@@ -121,8 +121,8 @@ display:block!important
           <a href="#0" class="footer-logo"><img src="assets/images/logo.png" alt="image"></a>
           <ul class="list-unstyled">  
             <li> <a href="<?php echo base_url("#");?>"> </a> </li>  
-            <li> <a href="<?php echo base_url("event");?>" style="color: aliceblue;">Events</a></li>  
-            <li> <a href="<?php echo base_url("#");?>" style="color: aliceblue;">Live</a></li>  
+            <li> <a href="<?php echo base_url("browse_events");?>" style="color: aliceblue;">Events</a></li>  
+            <li> <a href="<?php echo base_url("event");?>" style="color: aliceblue;">Live</a></li>  
             <li> <a href="<?php echo base_url("tv");?>" style="color: aliceblue;">TV</a></li>  
             <li> <a href="<?php echo base_url("#");?>"style="color: aliceblue;">Markets</a></li>  
             <!-- <li> <a href="Magazine.php" style="color: aliceblue;" >Magazine</a></li>  -->

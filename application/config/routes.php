@@ -77,15 +77,15 @@ $route['companie'] = 'WebController/companie';
 $route['Conferences'] = 'WebController/Conferences';
 $route['chat'] = 'WebController/Chat';
 $route['magzine'] = 'WebController/Magzine';
-$route['summits'] = 'WebController/Summits';
+$route['Summits'] = 'WebController/Summits';
 $route['Strategy'] = 'WebController/Strategy';
 
-$route['ixo'] = 'WebController/Ixo';
-$route['ads'] = 'WebController/Ads';
-$route['analytics'] = 'WebController/Analytics';
+$route['Ixo'] = 'WebController/Ixo';
+$route['Ads'] = 'WebController/Ads';
+$route['Analytics'] = 'WebController/Analytics';
 $route['Web'] = 'WebController/Web';
 $route['creative'] = 'WebController/Creative';
-$route['social'] = 'WebController/social';
+$route['Social'] = 'WebController/social';
 
 
 
