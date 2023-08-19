@@ -79,10 +79,10 @@ font-weight:500;
         <div class="row">
             <div class="col-md-12">
               
-             <h1><span style="font-size:60px;color:#E3A354;">About</span>
+             <h1><span style="font-size:60px;color:#78a343;">About</span>
               <br>Debate, fund, and build<br>
               the future, together</h1>
-              <hr style="border: solid 2px #CCA354;width:35%;" >
+              <hr style="border: solid 2px #78a343;width:35%;" >
               <p class="mission">Our mission is to unlock social mobility on a global<br>
 scale by empowering anyone, from anywhere,<br>
 to invest in anything.
@@ -240,7 +240,7 @@ to invest in anything.
     font-weight: 400;
     font-size: 18px;
     line-height: 18px;
-    color: #e3c050;
+    color: #78a343;
     font-family: Roboto,sans-serif;
 }
 h3.leader-name {
@@ -430,7 +430,7 @@ p.rsbig {
     color: #fff!important;
     transition: all .2s ease-in-out;
     background: #000;
-    border: 1px solid #e3c050;
+    border: 1px solid #78a343;
     border-radius: 4px;
     padding: 15px 25px;
     display: inline-block;
@@ -627,7 +627,7 @@ section.ha-faq h2 {
     margin-bottom: 50px;
 }
 section.ha-faq .panel.panel-default {
-    border:solid 1px #CCA354;
+    border:solid 1px #78a343;
     border-radius: 10px;
     padding: 15px;
     margin-bottom: 0;

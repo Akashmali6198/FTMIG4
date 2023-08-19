@@ -99,7 +99,7 @@ row.hwc-bottom-row {
     font-size: 18px;
     line-height: 18px;
     text-transform: uppercase;
-    color: #e3c050;
+    color: #78a343;
     text-align: center;
 }
 section.host-hero h1 {
@@ -169,7 +169,7 @@ input.hs-button.primary.large {
     color: #fff;
     transition: all .2s ease-in-out;
     background: #000;
-    border: 1px solid #e3c050;
+    border: 1px solid #78a343;
     border-radius: 4px;
     padding: 12px 25px;
     display: inline-block;
@@ -371,7 +371,7 @@ p {
     font-weight: 700;
     font-size: 18px;
     line-height: 24px;
-    color: #e3c050;
+    color: #78a343;
 }.hhiw-white {
     font-family: Roboto;
     font-style: normal;
@@ -530,7 +530,7 @@ p.event-card-c-name:before {
     top: 2px;
     width: 12px;
     height: 12px;
-    background: #e3c050;
+    background: #78a343;
 }
 h4.card-big-title {
     font-family: Roboto;
@@ -552,7 +552,7 @@ h4.card-big-title {
     padding: 7px;
     background: #000;
     width: 135px;
-    border: 1px solid #e3c050;
+    border: 1px solid #78a343;
     max-height: 40px;
     font-weight:700;
 }p.event-time {
@@ -804,7 +804,7 @@ p.hhiw-gold {
     font-weight: 700;
     font-size: 18px;
     line-height: 24px;
-    color: #e3c050;
+    color: #78a343;
 }
 .host-ways .hhiw-white {
     font-size: 36px;
@@ -839,7 +839,7 @@ p.hhiw-white {
     padding:3% 8% 3% 8%;
 }
 span.gold-hw a {
-    color: #e3c050;
+    color: #78a343;
 }
 </style>
 <section class="host-ways">

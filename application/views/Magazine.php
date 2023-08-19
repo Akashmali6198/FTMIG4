@@ -181,7 +181,7 @@ label{
 }
 body .hs-input-6ix, body input#email-5c34190f-f0d7-4f48-9bc9-def89e8350a9 {
     background: 0 0!important;
-    border-color: #e3c050!important;
+    border-color: #78a343!important;
     color: #fff!important;
 }
 
@@ -197,7 +197,7 @@ input.hs-button.primary.large {
     color: #fff;
     transition: all .2s ease-in-out;
     background: #000;
-    border: 1px solid #e3c050;
+    border: 1px solid #78a343;
     border-radius: 4px;
     padding: 12px 25px;
     display: inline-block;
@@ -934,7 +934,7 @@ h3.mso-title {
 .button-main.stroke-white {
     position: relative;
     border: 0;
-    border: 1px solid #e3c050;
+    border: 1px solid #78a343;
     transition: color 0s;
 }
 .magazine-wrapper a {
@@ -945,7 +945,7 @@ h3.mso-title {
     padding: 12px 25px;
     white-space: nowrap;
     border-radius: 4px;
-    color: #e3c050;
+    color: #78a343;
     text-transform: uppercase;
     font-family: Roboto,sans-serif;
     font-weight: 700;

@@ -84,7 +84,7 @@ font-size:25px;
     line-height: 22px;
     text-align: center;
     text-transform: uppercase;
-    color: #e3c050;
+    color: #78a343;
 }.security-hero h1 {
     font-family: Playfair Display;
     font-style: normal;
@@ -880,8 +880,8 @@ label{
     border-width: 1px;
     font-size: 14px;
     padding: 12px 24px;
-    color: #e3c050!important;
-    border: 2px solid #e3c050;
+    color: #78a343!important;
+    border: 2px solid #78a343;
     padding: 10px 30px;
     text-transform: uppercase;
     background-color: #131313!important;
@@ -898,7 +898,7 @@ label{
     text-transform: uppercase;
     color: #fff!important;
     transition: all .2s ease-in-out;
-    border: 1px solid #e3c050!important;
+    border: 1px solid #78a343!important;
     border-radius: 4px;
     padding: 15px 25px;
     display: block;

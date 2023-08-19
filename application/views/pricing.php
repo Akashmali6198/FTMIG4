@@ -99,7 +99,7 @@ ul.idxp-ul {
     color: #8c8e95;
 }
 ul.idxp-ul li.active {
-    border-bottom: 2px solid #e3c050;
+    border-bottom: 2px solid #78a343;
 }
 </style>
 <section >
@@ -201,7 +201,7 @@ section.price-hero h1 {
     line-height: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
-    color: #E3C050;
+    color: #78a343;
     background: #373737;
     border-radius: 6px;
     padding: 6px 12px;
@@ -236,7 +236,7 @@ section.price-hero h1 {
 }.pos-plan-details {
     height: 270px;
 }.pos-plan-details i {
-    color: #E3C050;
+    color: #78a343;
 }.pos-plan-details p.posd-line {
     font-family: 'Roboto';
     font-style: normal;
@@ -251,7 +251,7 @@ section.price-hero h1 {
     align-items: center;
     padding: 13px 20px;
     background: #373737;
-    border: 1px solid #E3C050;
+    border: 1px solid #78a343;
     border-radius: 4px;
     font-family: 'Roboto';
     font-style: normal;
@@ -292,7 +292,7 @@ section.price-hero h1 {
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
-    color: #E3C050;
+    color: #78a343;
 }.compare-price-link {
     text-align: center;
     margin: 60px 0;
@@ -483,7 +483,7 @@ section#match-companies p {
     font-size: 18px;
     line-height: 18px;
     text-transform: uppercase;
-    color: #e3c050;
+    color: #78a343;
     text-align: center;
 }#match-companies h2 {
     font-family: 'Playfair Display';
@@ -508,7 +508,7 @@ section#match-companies p {
     color: #fff;
     padding: 10px 20px;
     background: #000;
-    border: 1px solid #e3c050;
+    border: 1px solid #78a343;
     transition: all .2s ease-in-out;
     display: inline-block;
     border-radius: 4px;
@@ -605,7 +605,7 @@ a.sixip-btn-gold {
 }
 .sixip-btn-gold {
     background: #000;
-    border: 1px solid #e3c050;
+    border: 1px solid #78a343;
     border-radius: 4px;
     font-family: Roboto;
     font-style: normal;
@@ -804,7 +804,7 @@ a.ppcr-btn:hover {
 }
 a.ppcr-btn {
     border: 1px solid;
-    border: 1px solid #E3C050;
+    border: 1px solid #78a343;
     border-radius: 4px;
     padding: 10px 15px;
     font-family: 'Roboto';

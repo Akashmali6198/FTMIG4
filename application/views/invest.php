@@ -413,7 +413,7 @@ h6.name {
     line-height: 21px;
     letter-spacing: 1px;
     text-transform: uppercase;
-    color: #E3C050;
+    color: #78a343;
 }.invest-is-single h3 {
     font-family: 'Playfair Display';
     font-style: normal;
@@ -954,7 +954,7 @@ a.sixip-btn-gold {
 }
 .sixip-btn-gold {
     background: #000;
-    border: 1px solid #e3c050;
+    border: 1px solid #78a343;
     border-radius: 4px;
     font-family: Roboto;
     font-style: normal;
@@ -1231,7 +1231,7 @@ section#match-companies span.sixip-gold-st {
     font-size: 18px;
     line-height: 18px;
     text-transform: uppercase;
-    color: #e3c050;
+    color: #78a343;
     text-align: center;
 }
 .match-wrapper-h2 {
@@ -1255,7 +1255,7 @@ a.sixip-home-btn {
     color: #fff;
     padding: 10px 20px;
     background: #000;
-    border: 1px solid #e3c050;
+    border: 1px solid #78a343;
     transition: all .2s ease-in-out;
     display: inline-block;
     border-radius: 4px;

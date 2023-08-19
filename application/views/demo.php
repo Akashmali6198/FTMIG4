@@ -83,7 +83,7 @@ iframe {
     padding: 0% 20% 0% 11%;
     margin: 0;
 }ul.idxp-ul li.active {
-    border-bottom: 2px solid #e3c050;
+    border-bottom: 2px solid #78a343;
 }
 ul.idxp-ul li {
     margin-right: 15px;
@@ -198,7 +198,7 @@ section#getademo {
 }
 #demo-hub-form input.hs-button.primary.large {
     margin: 30px auto 0 auto;
-    border: 1px solid #E3C050!important;
+    border: 1px solid #78a343!important;
     border-radius: 4px!important;
     padding: 12px 25px;
     display: block;
