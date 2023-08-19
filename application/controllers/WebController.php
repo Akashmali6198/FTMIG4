@@ -127,7 +127,7 @@ class WebController extends CI_Controller {
 
 	}
 	
-	public function social(){
+	public function Social(){
 	    $this->load->view('components/header.php');
 		$this->load->view('social.php');
 		$this->load->view('components/footer.php');   
@@ -145,7 +145,7 @@ class WebController extends CI_Controller {
 	}
 	public function Twitter(){
 	    $this->load->view('components/header.php');
-		$this->load->view('Twitter.php');
+		$this->load->view('twitter.php');
 		$this->load->view('components/footer.php');   
 	}
 	public function About(){
@@ -184,6 +184,5 @@ class WebController extends CI_Controller {
 		$this->load->view('components/footer.php');   
 	}
 
-	
 
 }
