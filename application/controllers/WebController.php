@@ -132,4 +132,9 @@ class WebController extends CI_Controller {
 		$this->load->view('social.php');
 		$this->load->view('components/footer.php');   
 	}
+	public function browse_events(){
+	    $this->load->view('components/header.php');
+		$this->load->view('browse-events.php');
+		$this->load->view('components/footer.php');   
+	}
 }
