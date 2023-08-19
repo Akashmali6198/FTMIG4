@@ -61,15 +61,17 @@ $route['register'] = 'AuthController/register_user';
 
 // Default controller
 $route['home'] = 'WebController/index';
-$route['browse_events'] = 'WebController/browse_events';
 $route['tv'] = 'WebController/tv';
 $route['event'] = 'WebController/event';
-$route['upcoming_webinar'] = 'WebController/upcoming_webinar';
-$route['Conferences'] = 'WebController/Conferences';
+
 
 // $route->post('storeevent', 'WebController::StoreEvent');
 $route['storeevent'] = 'WebController/StoreEvent';
 
+
+
+$route['upcoming_webinar'] = 'WebController/upcoming_webinar';
+$route['browse_events'] = 'WebController/browse_events';
 $route['speakers'] = 'WebController/speakers';
 $route['companie'] = 'WebController/companie';
 $route['conferences'] = 'WebController/Conferences';
@@ -84,8 +86,6 @@ $route['analytics'] = 'WebController/Analytics';
 $route['web'] = 'WebController/Web';
 $route['creative'] = 'WebController/Creative';
 $route['social'] = 'WebController/social';
-
-
 
 
 
