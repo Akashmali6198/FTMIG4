@@ -97,13 +97,13 @@ display:block!important
       </a>
     </li>
     <li><a href="<?php echo base_url("login");?>">Signup/Login</a></li>
-    <li><a href="<?php echo base_url("about");?>">About</a></li>
-    <li><a href="<?php echo base_url("invest");?>">Invest</a></li>
-    <li><a href="<?php echo base_url("raise");?>">Raise</a></li>
-    <li><a href="<?php echo base_url("host");?>">Host</a></li>
-    <li><a href="<?php echo base_url("demo");?>">Demo</a></li>
-    <li><a href="<?php echo base_url("pricing");?>">Pricing</a></li>
-    <li><a href="<?php echo base_url("security");?>">Security</a></li>
+    <li><a href="<?php echo base_url("About");?>">About</a></li>
+    <li><a href="<?php echo base_url("Invest");?>">Invest</a></li>
+    <li><a href="<?php echo base_url("Raise");?>">Raise</a></li>
+    <li><a href="<?php echo base_url("Host");?>">Host</a></li>
+    <li><a href="<?php echo base_url("Demo");?>">Demo</a></li>
+    <li><a href="<?php echo base_url("Pricing");?>">Pricing</a></li>
+    <li><a href="<?php echo base_url("Security");?>">Security</a></li>
   </ul>
   <hr style="border:solid gray 1px">
   </div>
@@ -126,7 +126,7 @@ display:block!important
             <li> <a href="<?php echo base_url("tv");?>" style="color: aliceblue;">TV</a></li>  
             <li> <a href="<?php echo base_url("#");?>"style="color: aliceblue;">Markets</a></li>  
             <!-- <li> <a href="Magazine.php" style="color: aliceblue;" >Magazine</a></li>  -->
-            <li> <a href="<?php echo base_url("twitter");?>" style="color: aliceblue;" >Twitter</a></li>  
+            <li> <a href="<?php echo base_url("Twitter");?>" style="color: aliceblue;" >Twitter</a></li>  
           </ul>  
         </div>  
       </div>  

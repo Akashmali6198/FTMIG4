@@ -88,4 +88,17 @@ $route['Creative'] = 'WebController/Creative';
 $route['Social'] = 'WebController/social';
 $route['Twitter'] = 'WebController/Twitter';
 
+$route['About'] = 'WebController/About';
+$route['Invest'] = 'WebController/Invest';
+$route['Raise'] = 'WebController/Raise';
+$route['Host'] = 'WebController/Host';
+$route['Demo'] = 'WebController/Demo';
+$route['Pricing'] = 'WebController/Pricing';
+$route['Pricing'] = 'WebController/Twitter';
 
+
+
+
+
+
+Security

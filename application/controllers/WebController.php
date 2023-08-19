@@ -143,11 +143,47 @@ class WebController extends CI_Controller {
 		$this->load->view('upcoming_webinar.php');
 		$this->load->view('components/footer.php');   
 	}
-	public function 	Twitter(){
+	public function Twitter(){
 	    $this->load->view('components/header.php');
 		$this->load->view('	Twitter.php');
 		$this->load->view('components/footer.php');   
 	}
+	public function About(){
+	    $this->load->view('components/header.php');
+		$this->load->view('about.php');
+		$this->load->view('components/footer.php');   
+	}
+	public function Invest(){
+	    $this->load->view('components/header.php');
+		$this->load->view('invest.php');
+		$this->load->view('components/footer.php');   
+	}
+	public function Raise(){
+	    $this->load->view('components/header.php');
+		$this->load->view('	raise.php');
+		$this->load->view('components/footer.php');   
+	}
+	public function Host(){
+	    $this->load->view('components/header.php');
+		$this->load->view('	host.php');
+		$this->load->view('components/footer.php');   
+	}
+	public function Demo(){
+	    $this->load->view('components/header.php');
+		$this->load->view('demo.php');
+		$this->load->view('components/footer.php');   
+	}
+	public function Pricing(){
+	    $this->load->view('components/header.php');
+		$this->load->view('	pricing.php');
+		$this->load->view('components/footer.php');   
+	}
+	public function Security(){
+	    $this->load->view('components/header.php');
+		$this->load->view('	security.php');
+		$this->load->view('components/footer.php');   
+	}
 
+	
 
 }
