@@ -76,7 +76,7 @@
                       </div>
                     </div>
                     <div class="col-sm-6 text-sm-right">
-                      <p class="f-size-14">Haven't an account? <a href="registration.php" class="base--color">Sign Up</a></p>
+                      <p class="f-size-14">Haven't an account? <a href="<?php echo base_url("registration");?>" class="base--color">Sign Up</a></p>
                     </div>
                   </div>
                   <div class="mt-3">

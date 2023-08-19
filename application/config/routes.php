@@ -95,7 +95,7 @@ $route['Host'] = 'WebController/Host';
 $route['Demo'] = 'WebController/Demo';
 $route['Pricing'] = 'WebController/Pricing';
 $route['Security'] = 'WebController/Security';
-
+$route['registration'] = 'WebController/registration';
 
 
 
