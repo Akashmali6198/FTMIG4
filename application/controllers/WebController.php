@@ -145,7 +145,7 @@ class WebController extends CI_Controller {
 	}
 	public function Twitter(){
 	    $this->load->view('components/header.php');
-		$this->load->view('	Twitter.php');
+		$this->load->view('Twitter.php');
 		$this->load->view('components/footer.php');   
 	}
 	public function About(){
@@ -160,12 +160,12 @@ class WebController extends CI_Controller {
 	}
 	public function Raise(){
 	    $this->load->view('components/header.php');
-		$this->load->view('	raise.php');
+		$this->load->view('raise.php');
 		$this->load->view('components/footer.php');   
 	}
 	public function Host(){
 	    $this->load->view('components/header.php');
-		$this->load->view('	host.php');
+		$this->load->view('host.php');
 		$this->load->view('components/footer.php');   
 	}
 	public function Demo(){
@@ -175,12 +175,12 @@ class WebController extends CI_Controller {
 	}
 	public function Pricing(){
 	    $this->load->view('components/header.php');
-		$this->load->view('	pricing.php');
+		$this->load->view('pricing.php');
 		$this->load->view('components/footer.php');   
 	}
 	public function Security(){
 	    $this->load->view('components/header.php');
-		$this->load->view('	security.php');
+		$this->load->view('security.php');
 		$this->load->view('components/footer.php');   
 	}
 
