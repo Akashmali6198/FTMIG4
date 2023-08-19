@@ -99,7 +99,7 @@ a.irm-link {
     display: inline-block;
     letter-spacing: 1px;
     text-transform: uppercase;
-    color: #EBD18A;
+    color: #78a343;
     background: #2B2B2B;
     border-radius: 4px;
     padding: 8px 12px;
@@ -1072,7 +1072,7 @@ section#match-quotes p.mix-quotes-subline {
     font-weight: 700;
     font-size: 20px;
     line-height: 24px;
-    color: #d3b054;
+    color: #78a343;
     text-align: left;
 }
 img.mix-quote-logo {

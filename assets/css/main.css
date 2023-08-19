@@ -51,7 +51,13 @@ body {
     line-height: 1.7;
     background-color: #101113;
 }
-
+/* colorchange hue */
+img.mix-quote.entered.lazyloaded {
+    filter: hue-rotate(29deg)!important;
+}
+.home-network img {
+    filter: hue-rotate(29deg);
+}
 img {
     max-width: 100%;
     height: auto;

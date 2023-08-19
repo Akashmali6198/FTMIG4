@@ -98,7 +98,7 @@ a.irm-link {
     display: inline-block;
     letter-spacing: 1px;
     text-transform: uppercase;
-    color: #EBD18A;
+    color: #78a343;
     background: #2B2B2B;
     border-radius: 4px;
     padding: 8px 12px;
@@ -917,14 +917,14 @@ h6.name {
 }.idp-ixp-block-inner .fal {
     font-size: 20px;
     line-height: 26px;
-    color: #f1dda9;
+    color: #78a343;
 }.idp-ixp-block-inner h4 {
     font-family: Roboto;
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
     line-height: 27px;
-    color: #f1dda9;
+    color: #78a343;
     margin-left: -15px;
     margin-top: 0;
 }
@@ -1364,7 +1364,7 @@ section#match-quotes p.mix-quotes-subline {
     font-weight: 700;
     font-size: 20px;
     line-height: 24px;
-    color: #d3b054;
+    color: #78a343;
     text-align: left;
 }
 img.mix-quote-logo {
