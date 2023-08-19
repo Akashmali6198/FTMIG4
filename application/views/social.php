@@ -167,9 +167,9 @@ padding: 0% 20% 3% 20%;
       border: solid white 1px;
     }
     .playlist-frame:hover{
-      -webkit-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
-    -moz-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
-    box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
+      -webkit-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+    -moz-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+    box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
     
 
 

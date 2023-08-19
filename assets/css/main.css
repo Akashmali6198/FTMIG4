@@ -1759,7 +1759,7 @@ a:hover {
 
 .cmn-btn:hover {
     color:white;
-    background-color: #78a343;
+    background-color: #b78b36;
 }
 
 .cmn-btn.active {
@@ -2976,9 +2976,7 @@ span.is-active:after {
 }
 
 .package-card:hover {
-    -webkit-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
-    -moz-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
-    box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+    box-shadow: 0 5px 15px rgba(204, 163, 84, 0.5);
     -webkit-transform: translateY(-5px);
     -ms-transform: translateY(-5px);
     transform: translateY(-5px);
@@ -3396,7 +3394,7 @@ span.is-active:after {
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
     background-color: #000000;
-    box-shadow: 0 0 0px 2px rgba(94, 204, 84, 0.8);
+    box-shadow: 0 0 0px 2px rgba(204, 163, 84, 0.8);
 }
 
 .blog-card__thumb img {
