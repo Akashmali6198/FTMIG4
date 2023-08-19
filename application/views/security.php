@@ -238,7 +238,7 @@ font-size:25px;
     color: #fff;
     margin: 30px 0;
 }.sec-block i.far.fa-check-circle {
-    color: #e9e9e9;
+    color: #78a343;
     font-size: 24px;
     line-height: 34px;
 }

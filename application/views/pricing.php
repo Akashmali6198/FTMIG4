@@ -58,7 +58,9 @@ section#pricing-total h4 {
 /* media query end */
 
   /* banner style */
-
+  img.ecbr-logo-small.entered.lazyloaded {
+    filter: hue-rotate(45deg)!important;
+}
 .banner {
   position: relative;
   text-align: center;
