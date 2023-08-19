@@ -1,5 +1,21 @@
-<?php //include 'header.php' ?>
+<?php include 'header.php' ?>
 <style>
+ @media (max-width: 768px) {
+.banner {
+    height: 300px !important;
+    padding: 4%!important;
+
+}
+.banner h1 {
+    font-size: 39px!important;
+
+
+}
+ }
+  /* media query */
+
+
+
   /* banner style */
 
 .banner {
@@ -97,4 +113,4 @@
       </div>
     </section>
     <!-- blog section end -->
-<?php //include 'footer.php' ?>
+<?php include 'footer.php' ?>

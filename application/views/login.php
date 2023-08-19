@@ -55,17 +55,18 @@
             <div class="account-card">
               <div class="account-card__header bg_img overlay--one" data-background="assets/images/bg/bg-6.jpg">
                 <h2 class="section-title">Welcome to <span class="base--color">FTMIG</span></h2>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus distinctio deserunt impedit similique debitis voluptatum enim.</p>
               </div>
               <div class="account-card__body">
                 <h3 class="text-center">Login</h3>
-                <form class="mt-4" method="post" action="<?= base_url("login_auth"); ?>">
+                <form class="mt-4">
                   <div class="form-group">
                     <label>User Name</label>
-                    <input type="text" name="username" class="form-control" placeholder="Enter user name">
+                    <input type="text" class="form-control" placeholder="Enter user name">
                   </div>
                   <div class="form-group">
                     <label>Password</label>
-                    <input type="password" name="password"  class="form-control" placeholder="Enter password">
+                    <input type="email" class="form-control" placeholder="Enter password">
                   </div>
                   <div class="form-row">
                     <div class="col-sm-6">
@@ -75,7 +76,7 @@
                       </div>
                     </div>
                     <div class="col-sm-6 text-sm-right">
-                      <p class="f-size-14">Haven't an account? <a href="<?= base_url("sign_up");?>" class="base--color">Sign Up</a></p>
+                      <p class="f-size-14">Haven't an account? <a href="registration.php" class="base--color">Sign Up</a></p>
                     </div>
                   </div>
                   <div class="mt-3">

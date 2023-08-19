@@ -1,6 +1,31 @@
-<?php //include 'header.php' ?>
+<?php include 'header.php' ?>
 
 <style>
+/* meadia query */
+@media (max-width: 768px) {
+  #slider .carousel-item {
+    height: 40vh!important;
+}
+h1 {
+    font-size: 40px;
+}
+#slider .carousel-item .container {
+    max-width: 100% !important;
+}
+img.speaker-image {
+    height: 140px !important;
+}
+.speakerinfo {
+    
+    border: solid white 1px !important;
+
+}
+}
+/* media query */
+
+
+
+
       #slider .carousel-item {
         height: 80vh;
         background-size: cover;
@@ -503,4 +528,4 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
 
 
 
-<?php //include 'footer.php' ?>
+<?php include 'footer.php' ?>

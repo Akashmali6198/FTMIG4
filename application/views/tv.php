@@ -1,5 +1,31 @@
-<?php //include 'header.php' ?>
+<?php include 'header.php' ?>
     <style>
+ @media (max-width: 768px) {
+
+/* .card-medium-img.cmi-not-car {
+    padding: 14px!important;
+} */
+.banner {
+    height: 300px !important;
+    padding: 4%!important;
+
+}
+.banner h1 {
+    font-size: 30px!important;
+    margin-top: 20%!important;
+
+  }
+  .col-md-3 {
+    margin-top: 5%;
+}
+
+
+
+}
+  /* media query */
+
+
+
       .card {
         margin-bottom: 1rem;
       }
@@ -210,4 +236,4 @@ box-shadow: -1px -1px 14px 1px rgba(231,166,26,1);
     
     </section>
 
-    <?php //include 'footer.php' ?>
+    <?php include 'footer.php' ?>

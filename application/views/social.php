@@ -1,3 +1,4 @@
+<?php include 'header.php' ?>
 
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v17.0" nonce="xWlWVaf5"></script>
 
@@ -81,7 +82,7 @@ padding: 0% 20% 3% 20%;
 </style>
 <section>
   <div class="container-fluid banner overlay">
-    <h1>Social2</h1>
+    <h1>Social</h1>
   </div>
 
 </section>
@@ -236,3 +237,4 @@ padding: 0% 20% 3% 20%;
 
 
 <!-- youtube playlist ended -->
+<?php include 'footer.php' ?>

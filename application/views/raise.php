@@ -3,6 +3,61 @@
 <!-- above header -->
 
 <style>
+/* media query */
+@media (max-width: 768px) {
+
+iframe {
+width: 100% !important;
+height: 100% !important;
+}
+.banner {
+height: 300px !important;
+}
+.match-hero h1 {
+font-size:52px!important;
+margin:0px!important
+}
+.match-wrapper-h2 {
+font-size: 31px!important;
+}
+p.npbold {
+text-align: center;
+}
+.home-network p{
+text-align:center;
+}
+.invest-is-single h3 {
+font-size: 22px!important;
+}
+.invest-is-single .arrow-right {
+top: -120px!important;
+right: -26px!important;
+}
+.invest-is-single .arrow-left {
+top: -148px!important;
+left: -33px!important;
+}
+.match-wrapperh2 {
+font-size: 30px!important;
+}
+#match-quotes .ms-single-block, .ms-single-block {
+padding: 1%!important;
+}
+img.entered.lazyloaded {
+width: 100%!important;
+}
+.ms-single-block p {
+font-size:18px!important;
+
+}
+.sixip-home-idp-ixp-blocks{
+padding:3% 1% 3% 1% !important ;
+}
+}
+/* media query end */
+
+
+
 
 .banner {
   position: relative;

@@ -3,6 +3,51 @@
 <!-- header above -->
 
 <style>
+/* media query */
+/* meadi query */
+@media (max-width: 768px) {
+  .banner h1 {
+    margin-top: 23%!important;
+    font-size: 30px!important;
+  }
+  .mission {
+    font-size: 15px!important;
+  }
+  .banner {
+    height: 387px!important;
+  }
+  .ha-tripple-single {
+    margin-top: 6%;
+}
+.section-title {
+    font-size: 40px!important;
+}
+.leader-image img {
+    border: 1px solid #373737;
+    padding: 12px !important;
+    max-width: 100%!important;
+    margin-bottom: 6%!important;
+}
+span.leader-social.email a {
+    margin-top: 10%;
+}
+section.ha-leadership {
+    padding: 4% 5% 0% 5%!important;
+}
+.relations-sub-title {
+    font-size: 24px!important;
+}
+.hat-single {
+    margin-top: 10%;
+}
+section.ha-faq h2 {
+  font-size:30px !important;
+}
+
+/* media query */
+
+
+
   /* banner style */
 
 .banner {

@@ -1,6 +1,28 @@
-<?php //include 'header.php' ?>
+<?php include 'header.php' ?>
 <style>
-  /* banner style */
+  @media (max-width: 768px) {
+
+/* .card-medium-img.cmi-not-car {
+    padding: 14px!important;
+} */
+.banner {
+    height: 300px !important;
+    padding: 4%!important;
+
+}
+.banner h1 {
+    font-size: 39px!important;
+
+  }
+  .row{
+    margin-right: unset;
+    margin-left: unset;
+}
+
+
+
+}
+  /* media query */
 
 .banner {
   position: relative;
@@ -112,4 +134,4 @@
       </div>
     </section>
     <!-- blog section end -->
-<?php //include 'footer.php' ?>
+<?php include 'footer.php' ?>

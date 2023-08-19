@@ -1,4 +1,40 @@
+<?php include 'header.php' ?>
+<style>
+/* home page mobile */
+@media (max-width: 768px) {
+.home-network p {
+    text-align:center;
+}
+.home-network h2 {
+  font-size:37px !important;
+  text-align:center;
+}
+.row{
+    margin-right: unset;
+    margin-left: unset;
+}
 
+span.text-white.font-weight-normal {
+    font-size: 23px !important;
+}
+.hero__title {
+    font-size: 35px !important;
+}
+.hs-scrolling-debate h1{
+  font-size:28px !important;
+}
+.investor-card__thumb {
+    width: 100%;
+    min-height: 125px;
+}
+.p-5{
+  padding:2%!important;
+  margin-top:2%;
+}
+} 
+/* media query */
+
+</style>
     <!-- hero start -->
     <section class="hero bg_img" data-background="assets/images/bg/hero.jpg">
       <div class="container">
@@ -866,6 +902,8 @@ box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
 h6.name {
     font-size: 13px;
 }
+
+/* homepage mobile end */
   </style>
     <section class="home-network about-network" style="background-color:black;padding:3%;"> 
 	<div class="container">
@@ -1300,4 +1338,4 @@ font-weight:700;
       </div>
     </section>
     <!-- subscribe section end -->
-    <?php //include 'footer.php' ?>
+    <?php include 'footer.php' ?>

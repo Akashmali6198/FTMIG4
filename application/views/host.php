@@ -1,7 +1,61 @@
-<?php // include 'header.php' ?>
+<?php include 'header.php' ?>
 
 <!-- above header -->
 <style>
+/* media query */
+@media (max-width: 768px) {
+.banner {
+height: 300px !important;
+}
+section.host-hero h1 {
+
+    font-size: 35px!important;
+
+}
+.hbspt-form {
+    width: 100%!important;
+}
+.hs_email.hs-email.hs-fieldtype-text.field.hs-form-field {
+    display: inline-block;
+    width: 100%!important;
+}
+input.hs-button.primary.large {
+    margin-top: 10px!important;
+}
+.hhiw-single-sec {
+    padding-left: unset!important;
+}
+.hhiw-single.hhiw-single-sec {
+    padding-top: 10%!important;
+}
+.host-university h3 {
+    font-size: 33px!important;
+}
+p.event-date {
+    width: 247px!important;
+}
+.card.event-card-big.h-100 {
+    margin-top: 10%!important;
+}
+p.event-time {
+    padding-left: 38px!important;
+
+}
+row.hwc-bottom-row {
+    margin-top: 10%!important;
+}
+.host-cta h2 {
+    font-size: 29px!important;
+}
+.host-cta {
+    min-height: 330px!important;
+}
+
+}
+
+/* media query */
+
+
   /* banner style */
 
 .banner {
@@ -571,7 +625,7 @@ padding:3% 10% 5% 10% ;
 								      <div class="card-big-body cbb-not-car"> 
 
 											 
-											  <h4 class="card-big-title">[WORKSHOP] How to Use FTMIG AI TODAY to Get Investors and Turn Them Into Shareholders: Hands On Training for IR Professionals and CEOs in the Metals and Mining Industry</h4>
+											  <h4 class="card-big-title">[WORKSHOP] How to Use FTMIG AI TODAY</h4>
 
 											
                                       </div><!--card-body-->
@@ -912,4 +966,4 @@ span.gold-hw a {
 
 
 <!-- footer -->
-<?php //include 'footer.php' ?>
+<?php include 'footer.php' ?>

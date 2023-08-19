@@ -1,4 +1,32 @@
+<?php include 'header.php' ?>
+
 <style>
+  /* meadi query */
+@media (max-width: 768px) {
+
+/* .card-medium-img.cmi-not-car {
+    padding: 14px!important;
+} */
+.banner {
+    height: 300px !important;
+    padding: 4%!important;
+
+}
+.banner h1 {
+    font-size: 36px!important;
+    margin-top: 20%!important;
+
+  }
+
+
+
+}
+  /* media query */
+
+
+
+
+
 .banner {
   position: relative;
   text-align: center;
@@ -24,7 +52,9 @@
 </style>
 <section>
   <div class="container-fluid banner overlay">
-    <h1>FTMIG Conferences</h1>
+    <h1>Upcoming Webinar</h1>
   </div>
-
 </section>
+
+
+<?php include 'footer.php' ?>

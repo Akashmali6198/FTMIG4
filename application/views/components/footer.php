@@ -4,6 +4,34 @@
 <div class="footusm-line"></div>
 <style>
 
+@media (max-width: 768px) {
+.f-usm-menu li img {
+    object-fit: contain;
+    float: unset!important;
+    width: 200px !important;
+}
+.list-unstyled {
+    text-align: center!important;
+}
+
+h4.ft {
+    text-align: center !important;
+    margin-top: 32px!important;
+    font-size: 20px !important;
+}
+.footer-logo img {
+    max-height: 70px!important;
+    margin-left:50%!important;
+}
+
+ul, ol {
+    text-align: center !important;
+}
+
+}
+/* footer media query */
+
+
 @media only screen and (max-width: 600px) {
 .f-usm-menu {
 display:block!important
@@ -57,29 +85,29 @@ display:block!important
     }
   </style>
 <Section>
-  <div class="container-fluid ftback text-center">
-    
-        <div class="row">
-            <div class="col-md-12">
-                <hr style="border:solid gray 1px">
-                <ul id="scrolling-wrapper" class="f-usm-menu" data-dragging="false">
-                    <li>
-                        <a href="https://ftmig.com">
-                        <img src="assets/images/logo.png" class="foot-logo" alt="ftmig">
-                        </a>
-                    </li>
-                    <li><a href="">Signup/Login</a></li>
-                    <li><a href="about.php">About</a></li>
-                    <li><a href="invest.php">Invest</a></li>
-                    <li><a href="raise.php">Raise</a></li>
-                    <li><a href="host.php">Host</a></li>
-                    <li><a href="">Demo</a></li>
-                    <li><a href="">Pricing</a></li>
-                    <li><a href="">Security</a></li>
-                </ul>
-                <hr style="border:solid gray 1px">
-            </div>
-    </div>
+  <div class="container ftback text-center">
+    <div class="row">
+      <div class="col-md-12">
+      <hr style="border:solid gray 1px">
+  <ul id="scrolling-wrapper" class="f-usm-menu" data-dragging="false">
+    <li>
+      <a href="https://ftmig.com">
+      
+        <img src="assets/images/logo.png" class="foot-logo" alt="ftmig">
+      </a>
+    </li>
+    <li><a href="">Signup/Login</a></li>
+    <li><a href="about.php">About</a></li>
+    <li><a href="invest.php">Invest</a></li>
+    <li><a href="raise.php">Raise</a></li>
+    <li><a href="host.php">Host</a></li>
+    <li><a href="demo.php">Demo</a></li>
+    <li><a href="pricing.php">Pricing</a></li>
+    <li><a href="security.php">Security</a></li>
+  </ul>
+  <hr style="border:solid gray 1px">
+  </div>
+  </div>
   </div>
   </Section>
     <!-- footer above -->
@@ -92,44 +120,45 @@ display:block!important
         <div class="footer-pad">  
           <a href="#0" class="footer-logo"><img src="assets/images/logo.png" alt="image"></a>
           <ul class="list-unstyled">  
-            <li> <a href="#"></a> </li>  
-            <li> <a href="<?php echo base_url("event");?>" style="color: aliceblue;">Events</a></li>  
+            <li> <a href="#"> </a> </li>  
+            <li> <a href="event.php" style="color: aliceblue;">Events</a></li>  
             <li> <a href="#" style="color: aliceblue;">Live</a></li>  
-            <li> <a href="<?php echo base_url("tv");?>" style="color: aliceblue;">TV</a></li>  
+            <li> <a href="tv.php" style="color: aliceblue;">TV</a></li>  
             <li> <a href="#" style="color: aliceblue;">Markets</a></li>  
-            <li> <a href="<?php echo base_url("magzine");?>" style="color: aliceblue;" >Magazine</a></li>  
+            <!-- <li> <a href="Magazine.php" style="color: aliceblue;" >Magazine</a></li>  -->
+            <li> <a href="twitter.php" style="color: aliceblue;" >Twitter</a></li>  
           </ul>  
         </div>  
       </div>  
       <div class="col-md-3 col-sm-6">  
         <div class="footer-pad">  
-         <h4>INVESTMENT DISCOVERY PLATFORM</h4>
+         <h4 class="ft">INVESTMENT DISCOVERY PLATFORM</h4>
          <br>
           <ul class="list-unstyled">  
-            <li><a href="<?php echo base_url("companie");?>" style="color: aliceblue;" >Companies</a> </li>  
-            <li><a href="<?php echo base_url("speakers");?>" style="color: aliceblue;" >Speakers</a> </li>  
-            <li><a href="<?php echo base_url("conferences");?>" style="color: aliceblue;" >Conference</a></li>  
-            <li><a href="<?php echo base_url("chat");?>" style="color: aliceblue;">Chat</a></li>  
-            <li><a href="<?php echo base_url("statergy");?>" style="color: aliceblue;">Strategy</a></li>  
-            <li><a href="<?php echo base_url("summits");?>" style="color: aliceblue;">Summits</a></li>  
+            <li><a href="companies.php" style="color: aliceblue;" >Companies</a> </li>  
+            <li><a href="speakers.php" style="color: aliceblue;" >Speakers</a> </li>  
+            <li><a href="Conferences.php" style="color: aliceblue;" >Conference</a></li>  
+            <li><a href="Chat.php" style="color: aliceblue;">Chat</a></li>  
+            <li><a href="Strategy.php" style="color: aliceblue;">Strategy</a></li>  
+            <li><a href="Summits.php" style="color: aliceblue;">Summits</a></li>  
           </ul>  
         </div>  
       </div>  
       <div class="col-md-3 col-sm-6">  
         <div class="footer-pad">  
-          <h4>INVESTOR EXPERIENCE PLATFORM</h4>
+          <h4  class="ft">INVESTOR EXPERIENCE PLATFORM</h4>
           <br>  
           <ul class="list-unstyled">  
-            <li> <a href="<?php echo base_url("ads");?>" style="color: aliceblue;">Ads</a> </li>  
-            <li> <a href="<?php echo base_url("web");?>" style="color: aliceblue;">Web</a> </li>  
-            <li> <a href="<?php echo base_url("creative");?>" style="color: aliceblue;" >Creative</a> </li>  
-            <li> <a href="<?php echo base_url("ixo");?>" style="color: aliceblue;" >IXO</a> </li>  
-            <li> <a href="<?php echo base_url("analytics");?>" style="color: aliceblue;">Analytics</a> </li>  
+            <li> <a href="Ads.php" style="color: aliceblue;">Ads</a> </li>  
+            <li> <a href="Web.php" style="color: aliceblue;">Web</a> </li>  
+            <li> <a href="Creative.php" style="color: aliceblue;" >Creative</a> </li>  
+            <li> <a href="IXO.php" style="color: aliceblue;" >IXO</a> </li>  
+            <li> <a href="Analytics.php" style="color: aliceblue;">Analytics</a> </li>  
           </ul>  
         </div>  
       </div>  
         <div class="col-md-3">  
-            <h4>OFFICE CONTACT</h4>
+            <h4  class="ft">OFFICE CONTACT</h4>
             <br>  
             <ul class="social-network social-circle">  
              <li> <a href="#" class="icoFacebook" title="Facebook" style="color: aliceblue;">(833) 544-4456</a> </li>  

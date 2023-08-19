@@ -1,5 +1,24 @@
-<?php //include 'header.php' ?>
+<?php include 'header.php' ?>
 <style>
+/* media query */
+@media (max-width: 768px) {
+.banner {
+height: 300px !important;
+padding-left: 10%!important;
+font-size:25px;
+}
+.banner h1 {
+    padding-top:25%!important;
+    font-size:60px!important;
+}
+h1.ie-ix-title {
+    font-size: 29px!important;
+}
+
+}
+/* media query end */
+
+
   /* banner style */
 
 .banner {
@@ -478,4 +497,4 @@ p.ix-multi-subline {
 
 <!-- Stretegy section end -->
 
-<?php //include 'footer.php' ?>
+<?php include 'footer.php' ?>

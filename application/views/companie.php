@@ -1,6 +1,31 @@
-<?php //include 'header.php' ?>
+<?php include 'header.php' ?>
 
 <style>
+/* meadia query */
+@media (max-width: 768px) {
+  #slider .carousel-item {
+    height: 40vh!important;
+}
+h1 {
+    font-size: 40px;
+}
+#slider .carousel-item .container {
+    max-width: 100% !important;
+}
+img.speaker-image {
+    height: 140px !important;
+}
+.speakerinfo {
+    
+    border: solid white 1px !important;
+
+}
+}
+/* media query */
+
+
+
+
       #slider .carousel-item {
         height: 80vh;
         background-size: cover;
@@ -170,31 +195,29 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
       <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
         <a class="nav-link active colorchange" id="v-pills-tab-1" data-toggle="pill" href="#v-pills-1" role="tab" aria-controls="v-pills-1" aria-selected="true">
 
-        <h3 class="speaker">79North<h3>
-            <h6>CSE: JQ | OTCQB: SVNTF |</h6>
+        <h3 class="speaker">Fission<h3>
+            <h6>URANIUM CORP</h6>
         </a>
         <a class="nav-link colorchange" id="v-pills-tab-2" data-toggle="pill" href="#v-pills-2" role="tab" aria-controls="v-pills-2" aria-selected="false">
-            <h3 class="speaker">Advance United<h3>
-            <h6>CSE: AUHI | OTCQB: AUHIF | </h6>
+            <h3 class="speaker">WestHaven<h3>
+            <h6>GOLD CORP </h6>
         </a>
         <a class="nav-link colorchange" id="v-pills-tab-3" data-toggle="pill" href="#v-pills-3" role="tab" aria-controls="v-pills-3" aria-selected="false">
 
-        <h3 class="speaker">Adventus Mining<h3>
-            <h6>TSX.V: ADZN |OTCQX:ADVZF
-
-</h6>
+        <h3 class="speaker">Vizsla<h3>
+            <h6>SILVER CORP</h6>
         </a>
     
         <a class="nav-link colorchange" id="v-pills-tab-4" data-toggle="pill" href="#v-pills-4" role="tab" aria-controls="v-pills-4" aria-selected="false">
             
-        <h3 class="speaker">Affinity Metals<h3>
-            <h6>TSX.V: AFF</h6>
+        <h3 class="speaker">Appia<h3>
+            <h6>RARE EARTHS & URANIUM</h6>
         </a>
 
         <a class="nav-link colorchange" id="v-pills-tab-5" data-toggle="pill" href="#v-pills-5" role="tab" aria-controls="v-pills-5" aria-selected="false">
             
-        <h3 class="speaker">Altiplano Metals<h3>
-            <h6>TSX.V: APN | OTCQX: ALTFP</h6>
+        <h3 class="speaker">Romios<h3>
+            <h6>GOLD RESOURCES INC</h6>
         </a>
 
         
@@ -217,13 +240,13 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
 
                    <div class="speaker-info">
 
-                                                <img src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2021/10/79North-Logo-1.png" class="speaker-image entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2022/12/Abraham-Braam-Jonker.jpeg" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2022/12/Abraham-Braam-Jonker.jpeg" class="speaker-image"/></noscript>
+                                                <img src="assets/images/fission2.png" class="speaker-image entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2022/12/Abraham-Braam-Jonker.jpeg" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2022/12/Abraham-Braam-Jonker.jpeg" class="speaker-image"/></noscript>
                        <div class="speaker-border"></div>
 
                     
-                    <h3 class="speaker pads">79North </h3>
+                    <h3 class="speaker pads">Fission</h3>
 
-                    <p class="pads">CSE: JQ | OTCQB: SVNTF |</p> 
+                    <p class="pads">URANIUM CORP</p> 
 
                     </div><!--speaker-info-->  
                       
@@ -235,10 +258,11 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
              
                        <div class="speaker-bio" id="company-bio">
                        <p class="e-company-sub-title scrollable-text"> 
-                           This is a mineral exploration company spun out of Regulus Resources Inc. in 2018 and has the same core management team. Aldebaran acquired the Rio Grande copper-gold project located in Salta Province, Argentina, from Regulus along with several other early-stage projects in Argentina. Aldebaran also has the right to earn up to an 80% interest in the Altar copper-gold project in San Juan Province, Argentina from Sibanye-Stillwater. 
-                           <br><br>Altar hosts a cluster of large porphyry copper-gold systems with mineralization currently defined in four distinct zones. The Altar project forms part of a larger cluster of world-class porphyry copper deposits, which includes Los Pelambres in Chile (Antofagasta Minerals), along with El Pachón (Glencore), and Los Azules (McEwen Copper) in Argentina. 
-                           <br><br>A total of 266 drill holes (123,968 m) have been completed at Altar between 2003 and 2021. In mid-2018 an updated NI 43-101 resource was prepared for Altar by Independent Mining Consultants Inc. based on the drilling completed up to 2017. 
-                          </p></div>	 
+                       Fission Uranium is developing the high-grade, near-surface Triple R uranium deposit – part of the multiple award-winning PLS project.<br><br>
+
+Located in the renowned Athabasca Basin uranium district, PLS hosts the longest mineralized trend in the district and the Triple R is the only existing major, high-grade, deposit in the region found at shallow depth.<br><br>
+
+With an experienced team run by CEO and uranium expert, Ross McElroy, Fission has completed a Feasibility Study that shows the potential for the Triple R to be among the lowest operating cost uranium mines in the world. <br><br>The Company is ideally positioned to continue developing PLS through the environmental assessment and licensing phase.</p></div>	 
 
              </div><!--cinfo-bg-->  
            </div><!--end-col-->
@@ -263,13 +287,13 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
 
                    <div class="speaker-info">
 
-                                                <img src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2022/10/download.png" class="speaker-image"/></noscript>
+                                                <img src="assets/images/weasthaven.png" class="speaker-image"/></noscript>
                        <div class="speaker-border"></div>
 
                     
-                    <h3 class="speaker pads">Advance United</h3>
+                    <h3 class="speaker pads">WestHaven</h3>
 
-                    <p class="pads">CSE: AUHI | OTCQB: AUHIF |</p> 
+                    <p class="pads">GOLD CORP</p> 
 
                     </div><!--speaker-info-->  
                       
@@ -281,10 +305,8 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
              
                        <div class="speaker-bio" id="company-bio">
                        <p class="e-company-sub-title scrollable-text"> 
-                           This is a mineral exploration company spun out of Regulus Resources Inc. in 2018 and has the same core management team. Aldebaran acquired the Rio Grande copper-gold project located in Salta Province, Argentina, from Regulus along with several other early-stage projects in Argentina. Aldebaran also has the right to earn up to an 80% interest in the Altar copper-gold project in San Juan Province, Argentina from Sibanye-Stillwater. 
-                           <br><br>Altar hosts a cluster of large porphyry copper-gold systems with mineralization currently defined in four distinct zones. The Altar project forms part of a larger cluster of world-class porphyry copper deposits, which includes Los Pelambres in Chile (Antofagasta Minerals), along with El Pachón (Glencore), and Los Azules (McEwen Copper) in Argentina. 
-                           <br><br>A total of 266 drill holes (123,968 m) have been completed at Altar between 2003 and 2021. In mid-2018 an updated NI 43-101 resource was prepared for Altar by Independent Mining Consultants Inc. based on the drilling completed up to 2017. 
-                          </p>
+                       Westhaven is a gold-focused exploration company advancing the high-grade discovery on the Shovelnose project in Canada’s newest gold district, the Spences Bridge Gold Belt. Westhaven controls  37,000 hectares (370 square kilometres) with four 100% owned gold properties spread along this underexplored belt. 
+                       <br><br>The Shovelnose property is situated off a major highway, in close proximity to power, rail, large producing mines, and within commuting distance from the city of Merritt, which translates into low cost exploration. Westhaven is committed to the highest standards of environmental and social responsibility with a focus on generating positive outcomes and returns to all stakeholders.
                        </div>	 
 
              </div><!--cinfo-bg-->  
@@ -311,13 +333,13 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
 
                    <div class="speaker-info">
 
-                                                <img src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2021/10/logo-adventus-02-1-1.png" class="speaker-image"/></noscript>
+                                                <img src="assets/images/vizsla.png" class="speaker-image"/></noscript>
                        <div class="speaker-border"></div>
 
                     
-                    <h3 class="speaker pads">Adventus Mining</h3>
+                    <h3 class="speaker pads">Vizsla</h3>
 
-                    <p class="pads">TSX.V: ADZN | OTCQX:ADVZF</p> 
+                    <p class="pads">SILVER CORP</p> 
 
                     </div><!--speaker-info-->  
                       
@@ -329,10 +351,9 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
              
                        <div class="speaker-bio" id="company-bio">
                        <p class="e-company-sub-title scrollable-text"> 
-                           This is a mineral exploration company spun out of Regulus Resources Inc. in 2018 and has the same core management team. Aldebaran acquired the Rio Grande copper-gold project located in Salta Province, Argentina, from Regulus along with several other early-stage projects in Argentina. Aldebaran also has the right to earn up to an 80% interest in the Altar copper-gold project in San Juan Province, Argentina from Sibanye-Stillwater. 
-                           <br><br>Altar hosts a cluster of large porphyry copper-gold systems with mineralization currently defined in four distinct zones. The Altar project forms part of a larger cluster of world-class porphyry copper deposits, which includes Los Pelambres in Chile (Antofagasta Minerals), along with El Pachón (Glencore), and Los Azules (McEwen Copper) in Argentina. 
-                           <br><br>A total of 266 drill holes (123,968 m) have been completed at Altar between 2003 and 2021. In mid-2018 an updated NI 43-101 resource was prepared for Altar by Independent Mining Consultants Inc. based on the drilling completed up to 2017. 
-                          </p></div>	 
+                       With a team of experienced natural resource professionals, Vizsla Silver Corp. is focused on advancing its flagship, 100%-owned Panuco silver-gold project located in Sinaloa, Mexico. 
+                       <br><br>To date, Vizsla has completed over 250,000 metres of drilling at Panuco supporting an estimated in-situ mineral resource of 104.8 Moz AgEq and an in-situ inferred resource of 114.1 Moz AgEq (the effective date for the Updated Mineral Resource estimate is January 12, 2023). 
+                       <br><br>For 2023, Vizsla Silver has budgeted 90,000 metres of resource/discovery-based drilling., designed to upgrade, and expand the mineral resource base as well as test other high grade priority targets across the large, vastly underexplored Panuco district</div>	 
 
              </div><!--cinfo-bg-->  
            </div><!--end-col-->
@@ -358,13 +379,13 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
 
                    <div class="speaker-info">
 
-                                                <img src="data:image/jpeg;base64,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"  class="speaker-image"/></noscript>
+                                                <img src="assets/images/appia.png"  class="speaker-image"/></noscript>
                        <div class="speaker-border"></div>
 
                     
-                    <h3 class="speaker pads">Affinity Metals</h3>
+                    <h3 class="speaker pads">Appia</h3>
 
-                    <p class="pads">TSX.V: AFF</p> 
+                    <p class="pads">RARE EARTHS & URANIUM CORP</p> 
 
                     </div><!--speaker-info-->  
                       
@@ -376,11 +397,10 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
              
                        <div class="speaker-bio" id="company-bio">
                        <p class="e-company-sub-title scrollable-text"> 
-                           This is a mineral exploration company spun out of Regulus Resources Inc. in 2018 and has the same core management team. Aldebaran acquired the Rio Grande copper-gold project located in Salta Province, Argentina, from Regulus along with several other early-stage projects in Argentina. Aldebaran also has the right to earn up to an 80% interest in the Altar copper-gold project in San Juan Province, Argentina from Sibanye-Stillwater. 
-                           <br><br>Altar hosts a cluster of large porphyry copper-gold systems with mineralization currently defined in four distinct zones. The Altar project forms part of a larger cluster of world-class porphyry copper deposits, which includes Los Pelambres in Chile (Antofagasta Minerals), along with El Pachón (Glencore), and Los Azules (McEwen Copper) in Argentina. 
-                           <br><br>A total of 266 drill holes (123,968 m) have been completed at Altar between 2003 and 2021. In mid-2018 an updated NI 43-101 resource was prepared for Altar by Independent Mining Consultants Inc. based on the drilling completed up to 2017. 
-                          </p>
-                       </div>	 
+                       Exploring and developing uranium and rare earth deposits in Canada's Athabasca Basin area of northern Saskatchewan and the historic mining camp of Elliot Lake, Ontario.
+                      <br><br>Appia is currently focusing on continued exploration for high-grade critical rare earth elements and uranium in surface showings on its Alces Lake property, as well as discovering high-grade uranium deposits in the prolific Athabasca Basin area on the Loranger, Eastside and North Wollaston properties.  
+                      <br><br>The company currently holds the surface rights to exploration for about 63,980 hecAthabasca Basin Propertiestares (158,098 acres) in Saskatchewan.
+                    </div>	 
 
              </div><!--cinfo-bg-->  
            </div><!--end-col-->
@@ -406,13 +426,14 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
  
                     <div class="speaker-info">
  
-                                                 <img src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2022/05/altiplano-metals.png" class="speaker-image"/></noscript>
+                                                 <img src="assets/images/romios.png" class="speaker-image"/></noscript>
                         <div class="speaker-border"></div>
  
                      
-                     <h3 class="speaker pads">Altiplano Metals</h3>
+                     <h3 class="speaker pads">Romios
+</h3>
  
-                     <p class="pads">TSX.V: APN | OTCQX: ALTFP</p> 
+                     <p class="pads">GOLD RESOURCES INC</p> 
  
                      </div><!--speaker-info-->  
                        
@@ -424,10 +445,10 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
               
                         <div class="speaker-bio" id="company-bio">
                         <p class="e-company-sub-title scrollable-text"> 
-                           This is a mineral exploration company spun out of Regulus Resources Inc. in 2018 and has the same core management team. Aldebaran acquired the Rio Grande copper-gold project located in Salta Province, Argentina, from Regulus along with several other early-stage projects in Argentina. Aldebaran also has the right to earn up to an 80% interest in the Altar copper-gold project in San Juan Province, Argentina from Sibanye-Stillwater. 
-                           <br><br>Altar hosts a cluster of large porphyry copper-gold systems with mineralization currently defined in four distinct zones. The Altar project forms part of a larger cluster of world-class porphyry copper deposits, which includes Los Pelambres in Chile (Antofagasta Minerals), along with El Pachón (Glencore), and Los Azules (McEwen Copper) in Argentina. 
-                           <br><br>A total of 266 drill holes (123,968 m) have been completed at Altar between 2003 and 2021. In mid-2018 an updated NI 43-101 resource was prepared for Altar by Independent Mining Consultants Inc. based on the drilling completed up to 2017. 
-                          </p>
+                        Romios Gold Resources Inc. is a progressive Canadian mineral exploration company established in 1995 and engaged in precious- and base-metal exploration, focused primarily on gold, copper and silver. It has a 100% interest in the Lundmark-Akow Lake Au-Cu property and 4 additional claim blocks in northwestern Ontario and extensive claim holdings covering several significant porphyry copper-gold prospects in the “Golden Triangle” of British Columbia. 
+                        <br><br>Additional interests include two former producers, the La Corne molybdenum mine property (Quebec), a former high-grade gold producer - the Scossa mine property (Nevada), and the Kinkaid Nevada claims covering numerous Au-Ag-Cu workings.
+                        
+                        <br><br>The Company also retains an ongoing interest in several properties including a 20% carried interest in five of Honey Badger Mining’s claim blocks in the Thunder Bay silver district of northwestern Ontario; a 2% NSR on McEwen Mining’s Hislop gold property in Ontario; and a 2% NSR on the Newmont Lake Au-Cu-Ag property in BC now owned by Enduro Metals Corp.
                         </div>	 
  
               </div><!--cinfo-bg-->  
@@ -452,4 +473,4 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
 
 
 
-<?php //include 'footer.php' ?>
+<?php include 'footer.php' ?>
