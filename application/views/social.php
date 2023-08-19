@@ -70,10 +70,9 @@ padding: 4% !important;
   padding-top:5%;
 }
 .socialrow iframe{
-  -webkit-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
-    -moz-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
-    box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
-  
+  -webkit-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+    -moz-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+    box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
 }
 .twittersize{
 padding: 0% 20% 3% 20%;
@@ -97,7 +96,7 @@ padding: 0% 20% 3% 20%;
   
   <h1 class="title">
   Social media FTMIG
-  <hr style="border:solid 2px #BC974F;width:50%;">
+  <hr style="border:solid 2px #78a343;width:50%;">
   </h1>
   </div>
 </div>
