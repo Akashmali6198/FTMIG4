@@ -152,7 +152,7 @@ display:block!important
             <li> <a href="<?php echo base_url("Ads");?>" style="color: aliceblue;">Ads</a> </li>  
             <li> <a href="<?php echo base_url("Web");?>" style="color: aliceblue;">Web</a> </li>  
             <li> <a href="<?php echo base_url("Creative");?>" style="color: aliceblue;" >Creative</a> </li>  
-            <li> <a href="<?php echo base_url("IXO");?>" style="color: aliceblue;" >IXO</a> </li>  
+            <li> <a href="<?php echo base_url("Ixo");?>" style="color: aliceblue;" >IXO</a> </li>  
             <li> <a href="<?php echo base_url("Analytics");?>" style="color: aliceblue;">Analytics</a> </li>  
           </ul>  
         </div>  

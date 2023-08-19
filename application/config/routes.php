@@ -84,8 +84,8 @@ $route['Ixo'] = 'WebController/Ixo';
 $route['Ads'] = 'WebController/Ads';
 $route['Analytics'] = 'WebController/Analytics';
 $route['Web'] = 'WebController/Web';
-$route['creative'] = 'WebController/Creative';
+$route['Creative'] = 'WebController/Creative';
 $route['Social'] = 'WebController/social';
-
+$route['Twitter'] = 'WebController/Twitter';
 
 

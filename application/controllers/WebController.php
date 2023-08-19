@@ -143,6 +143,11 @@ class WebController extends CI_Controller {
 		$this->load->view('upcoming_webinar.php');
 		$this->load->view('components/footer.php');   
 	}
-	
+	public function 	Twitter(){
+	    $this->load->view('components/header.php');
+		$this->load->view('	Twitter.php');
+		$this->load->view('components/footer.php');   
+	}
+
 
 }
