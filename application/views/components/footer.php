@@ -97,7 +97,7 @@ display:block!important
       </a>
     </li>
     <li><a href="<?php echo base_url("login");?>">Signup/Login</a></li>
-    <li><a href="<?php echo base_url("about");?>">">About</a></li>
+    <li><a href="<?php echo base_url("about");?>">About</a></li>
     <li><a href="<?php echo base_url("invest");?>">Invest</a></li>
     <li><a href="<?php echo base_url("raise");?>">Raise</a></li>
     <li><a href="<?php echo base_url("host");?>">Host</a></li>
@@ -120,13 +120,13 @@ display:block!important
         <div class="footer-pad">  
           <a href="#0" class="footer-logo"><img src="assets/images/logo.png" alt="image"></a>
           <ul class="list-unstyled">  
-            <li> <a href="#"> </a> </li>  
-            <li> <a href="event.php" style="color: aliceblue;">Events</a></li>  
-            <li> <a href="#" style="color: aliceblue;">Live</a></li>  
-            <li> <a href="tv.php" style="color: aliceblue;">TV</a></li>  
-            <li> <a href="#" style="color: aliceblue;">Markets</a></li>  
+            <li> <a href="<?php echo base_url("#");?>"> </a> </li>  
+            <li> <a href="<?php echo base_url("event");?>" style="color: aliceblue;">Events</a></li>  
+            <li> <a href="<?php echo base_url("#");?>" style="color: aliceblue;">Live</a></li>  
+            <li> <a href="<?php echo base_url("tv");?>" style="color: aliceblue;">TV</a></li>  
+            <li> <a href="<?php echo base_url("#");?>"style="color: aliceblue;">Markets</a></li>  
             <!-- <li> <a href="Magazine.php" style="color: aliceblue;" >Magazine</a></li>  -->
-            <li> <a href="twitter.php" style="color: aliceblue;" >Twitter</a></li>  
+            <li> <a href="<?php echo base_url("twitter");?>" style="color: aliceblue;" >Twitter</a></li>  
           </ul>  
         </div>  
       </div>  
@@ -135,12 +135,12 @@ display:block!important
          <h4 class="ft">INVESTMENT DISCOVERY PLATFORM</h4>
          <br>
           <ul class="list-unstyled">  
-            <li><a href="companies.php" style="color: aliceblue;" >Companies</a> </li>  
-            <li><a href="speakers.php" style="color: aliceblue;" >Speakers</a> </li>  
-            <li><a href="Conferences.php" style="color: aliceblue;" >Conference</a></li>  
-            <li><a href="Chat.php" style="color: aliceblue;">Chat</a></li>  
-            <li><a href="Strategy.php" style="color: aliceblue;">Strategy</a></li>  
-            <li><a href="Summits.php" style="color: aliceblue;">Summits</a></li>  
+            <li><a href="<?php echo base_url("companies");?>" style="color: aliceblue;" >Companies</a> </li>  
+            <li><a href="<?php echo base_url("speakers");?>" style="color: aliceblue;" >Speakers</a> </li>  
+            <li><a href="<?php echo base_url("Conferences");?>" style="color: aliceblue;" >Conference</a></li>  
+            <li><a href="<?php echo base_url("Chat");?>" style="color: aliceblue;">Chat</a></li>  
+            <li><a href="<?php echo base_url("Strategy");?>" style="color: aliceblue;">Strategy</a></li>  
+            <li><a href="<?php echo base_url("Summits");?>" style="color: aliceblue;">Summits</a></li>  
           </ul>  
         </div>  
       </div>  
@@ -149,11 +149,11 @@ display:block!important
           <h4  class="ft">INVESTOR EXPERIENCE PLATFORM</h4>
           <br>  
           <ul class="list-unstyled">  
-            <li> <a href="Ads.php" style="color: aliceblue;">Ads</a> </li>  
-            <li> <a href="Web.php" style="color: aliceblue;">Web</a> </li>  
-            <li> <a href="Creative.php" style="color: aliceblue;" >Creative</a> </li>  
-            <li> <a href="IXO.php" style="color: aliceblue;" >IXO</a> </li>  
-            <li> <a href="Analytics.php" style="color: aliceblue;">Analytics</a> </li>  
+            <li> <a href="<?php echo base_url("Ads");?>" style="color: aliceblue;">Ads</a> </li>  
+            <li> <a href="<?php echo base_url("Web");?>" style="color: aliceblue;">Web</a> </li>  
+            <li> <a href="<?php echo base_url("Creative");?>" style="color: aliceblue;" >Creative</a> </li>  
+            <li> <a href="<?php echo base_url("IXO");?>" style="color: aliceblue;" >IXO</a> </li>  
+            <li> <a href="<?php echo base_url("Analytics");?>" style="color: aliceblue;">Analytics</a> </li>  
           </ul>  
         </div>  
       </div>  
