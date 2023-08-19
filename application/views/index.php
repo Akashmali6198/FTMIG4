@@ -509,8 +509,8 @@ box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
                       <img src="assets/images/testimonial/1.jpg" alt="image">
                     </div>
                     <div class="content">
-                      <h6 class="name">Fahaddevs</h6>
-                      <span class="designation">CEO of fahaddevs</span>
+                      <h6 class="name">David D'Onofrio</h6>
+                      <span class="designation">CEO, White Gold Corp</span>
                       <div class="ratings">
                         <i class="las la-star"></i>
                         <i class="las la-star"></i>
@@ -525,7 +525,7 @@ box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
               <div class="single-slide">
                 <div class="testimonial-card">
                   <div class="testimonial-card__content">
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos minus, assumenda soluta unde veritatis voluptatibus adipisci, aliquid, non officiis repudiandae rerum porro odio ea laborum veniam numquam doloribus obcaecati.</p>
+                    <p>Professional, seamless webinar from 6ix allowed Maritime to pitch our company to over 100 investors.</p>
                   </div>
                   <div class="testimonial-card__client">
                     <div class="thumb">
