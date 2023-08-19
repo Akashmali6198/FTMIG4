@@ -80,7 +80,7 @@
                       </div>
                     </div>
                     <div class="col-sm-6 text-sm-right">
-                      <p class="f-size-14">Have an account? <a href="login.html" class="base--color">Login</a></p>
+                      <p class="f-size-14">Have an account? <a href="<?php echo base_url("login");?>" class="base--color">Login</a></p>
                     </div>
                   </div>
                   <div class="mt-3">
