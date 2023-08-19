@@ -91,7 +91,7 @@ display:block!important
       <hr style="border:solid gray 1px">
   <ul id="scrolling-wrapper" class="f-usm-menu" data-dragging="false">
     <li>
-      <a href="https://ftmig.com">
+      <a href="index.php">
       
         <img src="assets/images/logo.png" class="foot-logo" alt="ftmig">
       </a>
