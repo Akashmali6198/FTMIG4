@@ -81,7 +81,7 @@ img.speaker-image {
     padding-left:10%;
 }
 .speaker{
-    color:#CCA354;
+    color:#78a343;
 }
 .nav-pills .nav-link {
   margin-bottom: 30px;
