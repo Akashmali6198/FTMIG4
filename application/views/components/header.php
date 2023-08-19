@@ -71,7 +71,7 @@
               <li> <a href="<?php echo base_url("browse_events");?>">Events</a></li>
               <li> <a href="<?php echo base_url("event");?>">Live</a></li>
               <li> <a href="<?php echo base_url("tv");?>">TV</a></li>
-              <li> <a href="<?php echo base_url("social");?>">Social</a></li>
+              <li> <a href="<?php echo base_url("Social");?>">Social</a></li>
               <li><a href="<?php echo base_url("#");?>">Markets</a></li>
               <li><a href="<?php echo base_url("upcoming_webinar");?>">Upcoming Webinar</a></li>
               <li><a href="<?php echo base_url("companie");?>">Companies</a></li>
