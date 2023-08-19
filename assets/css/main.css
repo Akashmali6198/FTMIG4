@@ -800,7 +800,7 @@ a:hover {
 }
 
 .card {
-    box-shadow: 0 0 15px rgba(204, 163, 84, 0.35);
+    box-shadow: 0 0 15px rgba(84, 204, 84, 0.35);
     background-color: #000000;
 }
 
@@ -1522,7 +1522,7 @@ a:hover {
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
     overflow: hidden;
-    box-shadow: 0 5px 5px 0 rgba(204, 163, 84, 0.25);
+    box-shadow: 0 5px 5px 0 rgba(128, 204, 84, 0.25);
 }
 
 .table.style--two thead {
@@ -3388,6 +3388,7 @@ span.is-active:after {
 /* blog section css start */
 .blog-card {
     padding: 15px;
+    /* border-radius: 16px; */
     -webkit-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
     -moz-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
     box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
@@ -3640,7 +3641,7 @@ blockquote {
     -moz-border-radius: 8px;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
-    box-shadow: 0 0 10px rgba(204, 163, 84, 0.5);
+    box-shadow: 0 0 10px rgba(108, 204, 84, 0.5);
 }
 
 @media (max-width: 575px) {
@@ -3698,12 +3699,12 @@ blockquote {
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
     overflow: hidden;
-    box-shadow: 0 0 10px 2px rgba(204, 163, 84, 0.45);
+    box-shadow: 0 0 10px 2px rgba(104, 204, 84, 0.45);
 }
 
 .account-card__header {
     padding: 50px 30px;
-    border-bottom: 2px solid rgba(204, 163, 84, 0.5);
+    border-bottom: 2px solid rgba(104, 204, 84, 0.5);
 }
 
 .account-card__body {
@@ -3715,7 +3716,7 @@ blockquote {
 .contact-wrapper {
     overflow: hidden;
     background-color: #000000;
-    box-shadow: 0 5px 15px rgba(204, 163, 84, 0.4);
+    box-shadow: 0 5px 15px rgba(88, 204, 84, 0.4);
     border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -3742,7 +3743,7 @@ blockquote {
     -moz-border-radius: 5px;
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
-    box-shadow: 0 5px 15px rgba(204, 163, 84, 0.5);
+    box-shadow: 0 5px 15px rgba(94, 204, 84, 0.5);
 }
 
 .contact-item i {
