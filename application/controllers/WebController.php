@@ -183,7 +183,7 @@ class WebController extends CI_Controller {
 		$this->load->view('security.php');
 		$this->load->view('components/footer.php');   
 	}
-	public function Security(){
+	public function registration(){
 	    $this->load->view('components/header.php');
 		$this->load->view('registration.php');
 		$this->load->view('components/footer.php');   
