@@ -115,9 +115,9 @@
 }
 
 .card:hover{
-  -webkit-box-shadow: -1px -1px 14px 1px rgba(231,166,26,1);
--moz-box-shadow: -1px -1px 14px 1px rgba(231,166,26,1);
-box-shadow: -1px -1px 14px 1px rgba(231,166,26,1);
+  -webkit-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+    -moz-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+    box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
 }
 
     </style>

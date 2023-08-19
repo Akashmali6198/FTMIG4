@@ -1759,7 +1759,7 @@ a:hover {
 
 .cmn-btn:hover {
     color:white;
-    background-color: #b78b36;
+    background-color: #78a343;
 }
 
 .cmn-btn.active {
@@ -2976,7 +2976,9 @@ span.is-active:after {
 }
 
 .package-card:hover {
-    box-shadow: 0 5px 15px rgba(204, 163, 84, 0.5);
+    -webkit-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+    -moz-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+    box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
     -webkit-transform: translateY(-5px);
     -ms-transform: translateY(-5px);
     transform: translateY(-5px);
