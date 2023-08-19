@@ -68,7 +68,7 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav main-menu m-auto">
-              <li> <a href="<?php echo base_url("browse-events");?>">Events</a></li>
+              <li> <a href="<?php echo base_url("browse_events");?>">Events</a></li>
               <li> <a href="<?php echo base_url("event");?>">Live</a></li>
               <li> <a href="<?php echo base_url("tv");?>">TV</a></li>
               <li> <a href="<?php echo base_url("social");?>">Social</a></li>
