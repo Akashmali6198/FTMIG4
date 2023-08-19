@@ -135,10 +135,10 @@ display:block!important
          <h4 class="ft">INVESTMENT DISCOVERY PLATFORM</h4>
          <br>
           <ul class="list-unstyled">  
-            <li><a href="<?php echo base_url("companies");?>" style="color: aliceblue;" >Companies</a> </li>  
+            <li><a href="<?php echo base_url("companie");?>" style="color: aliceblue;" >Companies</a> </li>  
             <li><a href="<?php echo base_url("speakers");?>" style="color: aliceblue;" >Speakers</a> </li>  
             <li><a href="<?php echo base_url("Conferences");?>" style="color: aliceblue;" >Conference</a></li>  
-            <li><a href="<?php echo base_url("Chat");?>" style="color: aliceblue;">Chat</a></li>  
+            <li><a href="<?php echo base_url("#");?>" style="color: aliceblue;">Chat</a></li>  
             <li><a href="<?php echo base_url("Strategy");?>" style="color: aliceblue;">Strategy</a></li>  
             <li><a href="<?php echo base_url("Summits");?>" style="color: aliceblue;">Summits</a></li>  
           </ul>  

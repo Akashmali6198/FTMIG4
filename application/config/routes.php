@@ -78,12 +78,12 @@ $route['Conferences'] = 'WebController/Conferences';
 $route['chat'] = 'WebController/Chat';
 $route['magzine'] = 'WebController/Magzine';
 $route['summits'] = 'WebController/Summits';
-$route['statergy'] = 'WebController/Strategy';
+$route['Strategy'] = 'WebController/Strategy';
 
 $route['ixo'] = 'WebController/Ixo';
 $route['ads'] = 'WebController/Ads';
 $route['analytics'] = 'WebController/Analytics';
-$route['web'] = 'WebController/Web';
+$route['Web'] = 'WebController/Web';
 $route['creative'] = 'WebController/Creative';
 $route['social'] = 'WebController/social';
 
