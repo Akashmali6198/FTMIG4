@@ -525,7 +525,7 @@ box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
               <div class="single-slide">
                 <div class="testimonial-card">
                   <div class="testimonial-card__content">
-                    <p>Professional, seamless webinar from 6ix allowed Maritime to pitch our company to over 100 investors.</p>
+                    <p>Professional, seamless webinar from FTMIG allowed Maritime to pitch our company to over 100 investors They has a very innovative approach to online advertising.</p>
                   </div>
                   <div class="testimonial-card__client">
                     <div class="thumb">
@@ -548,8 +548,8 @@ box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
               <div class="single-slide">
                 <div class="testimonial-card">
                   <div class="testimonial-card__content">
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos minus, assumenda soluta unde veritatis voluptatibus adipisci, aliquid, non officiis repudiandae rerum porro odio ea laborum veniam numquam doloribus obcaecati.</p>
-                  </div>
+                  <p>FTMIG does a great job arranging retail focused webinars as well as working with the companies to manage and optimize a digital media strategy to drive increased awareness.</p>
+                </div>
                   <div class="testimonial-card__client">
                     <div class="thumb">
                       <img src="assets/images/testimonial/3.jpg" alt="image">
@@ -571,8 +571,8 @@ box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
               <div class="single-slide">
                 <div class="testimonial-card">
                   <div class="testimonial-card__content">
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos minus, assumenda soluta unde veritatis voluptatibus adipisci, aliquid, non officiis repudiandae rerum porro odio ea laborum veniam numquam doloribus obcaecati.</p>
-                  </div>
+                  <p>Professional, seamless webinar from 6ix allowed Maritime to pitch our company to over 100 investors They has a very innovative approach to online advertising.</p>
+                </div>
                   <div class="testimonial-card__client">
                     <div class="thumb">
                       <img src="assets/images/testimonial/4.jpg" alt="image">
