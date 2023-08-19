@@ -94,11 +94,10 @@ $route['Raise'] = 'WebController/Raise';
 $route['Host'] = 'WebController/Host';
 $route['Demo'] = 'WebController/Demo';
 $route['Pricing'] = 'WebController/Pricing';
-$route['Pricing'] = 'WebController/Twitter';
+$route['Security'] = 'WebController/Security';
 
 
 
 
 
 
-Security
