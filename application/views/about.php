@@ -44,6 +44,7 @@ section.ha-faq h2 {
   font-size:30px !important;
 }
 
+}
 /* media query */
 
 
