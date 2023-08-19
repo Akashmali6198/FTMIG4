@@ -1,4 +1,3 @@
-<?php include "header.php" ?>
 
 <style>
 /* media query */
@@ -88,4 +87,3 @@ font-size:25px;
 
 
 
-<?php include 'footer.php' ?>

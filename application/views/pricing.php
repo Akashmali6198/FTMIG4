@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 
 
 
@@ -1252,4 +1252,3 @@ a.ppcr-btn {
 
 <!-- footer below -->
 
-<?php include 'footer.php' ?>

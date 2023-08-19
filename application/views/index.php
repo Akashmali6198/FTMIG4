@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 <style>
 /* home page mobile */
 @media (max-width: 768px) {
@@ -1338,4 +1338,3 @@ font-weight:700;
       </div>
     </section>
     <!-- subscribe section end -->
-    <?php include 'footer.php' ?>

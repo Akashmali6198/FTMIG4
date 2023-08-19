@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 <!-- header above -->
 
 <style>
@@ -1000,4 +1000,3 @@ section.mag-four {
 </div></section>
                  
 <!-- footer below -->
-<?php include 'footer.php' ?>

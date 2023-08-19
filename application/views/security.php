@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 <!-- header above -->
 
 
@@ -939,4 +939,3 @@ label{
 <!-- get in touch section ended -->
 
 <!-- footer below -->
-<?php include 'footer.php' ?>

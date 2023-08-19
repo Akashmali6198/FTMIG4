@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
     <style>
  @media (max-width: 768px) {
 
@@ -236,4 +236,4 @@ box-shadow: -1px -1px 14px 1px rgba(231,166,26,1);
     
     </section>
 
-    <?php include 'footer.php' ?>
+   

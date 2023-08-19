@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 <style>
   /* banner style */
 
@@ -480,4 +480,3 @@ p.ix-multi-subline {
 
 <!-- Stretegy section end -->
 
-<?php include 'footer.php' ?>

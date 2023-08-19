@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 
 <!-- header above -->
 
@@ -789,4 +789,3 @@ section.ha-faq .panel-heading a:before {
 <!-- footer -->
 
 
-<?php include 'footer.php' ?>

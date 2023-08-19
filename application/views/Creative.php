@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 <style>
 /* media query */
 @media (max-width: 768px) {
@@ -496,5 +496,3 @@ p.ix-multi-subline {
 </section>
 
 <!-- Stretegy section end -->
-
-<?php include 'footer.php' ?>

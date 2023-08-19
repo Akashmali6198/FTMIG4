@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 <!-- above header -->
 
 <style>
@@ -258,4 +258,3 @@ section#getademo {
 <!--deliver great section start -->
 
 <!-- footer -->
-<?php include 'footer.php' ?>

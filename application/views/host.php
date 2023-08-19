@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 
 <!-- above header -->
 <style>
@@ -966,4 +966,3 @@ span.gold-hw a {
 
 
 <!-- footer -->
-<?php include 'footer.php' ?>

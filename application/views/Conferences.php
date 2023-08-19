@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 <style>
  @media (max-width: 768px) {
 .banner {
@@ -113,4 +113,3 @@
       </div>
     </section>
     <!-- blog section end -->
-<?php include 'footer.php' ?>

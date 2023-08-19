@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 
 <style>
 
@@ -412,4 +412,3 @@ font-weight:700;
 <!-- 2nd events section start -->
 
 <!-- 2nd events end -->
-<?php include 'footer.php' ?>

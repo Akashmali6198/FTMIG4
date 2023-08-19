@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 
 <style>
 /* meadia query */
@@ -473,4 +473,3 @@ With an experienced team run by CEO and uranium expert, Ross McElroy, Fission ha
 
 
 
-<?php include 'footer.php' ?>

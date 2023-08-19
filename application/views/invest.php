@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 
 <!-- above header -->
 
@@ -1614,4 +1614,3 @@ img.mix-quote-logo {
 <!-- faq section end -->
 
 <!-- footer -->
-<?php include 'footer.php' ?>

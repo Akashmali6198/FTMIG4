@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 
 <style>
   /* meadi query */
@@ -57,4 +57,3 @@
 </section>
 
 
-<?php include 'footer.php' ?>
