@@ -82,7 +82,7 @@ img.speaker-image {
 }
 
 .speaker{
-    color:#CCA354;
+    color:#78a343;
 }
 .nav-pills .nav-link {
   margin-bottom: 30px;
@@ -92,9 +92,9 @@ img.speaker-image {
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: #fff;
     background-color:black;
-    -webkit-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
--moz-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
+    -webkit-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+    -moz-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+    box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
 border:solid white 1px;
 }
 
@@ -133,9 +133,9 @@ img.speaker-image {
 border-left:0px;
 }
 .colorchange:hover{
-  -webkit-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
--moz-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
+  -webkit-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+    -moz-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+    box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
 }
     </style>
 
