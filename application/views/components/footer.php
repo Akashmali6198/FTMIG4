@@ -177,7 +177,7 @@ Ontario, Canada, M5R 2A5</a> </li>
         <div class="col-md-6 text-md-left text-center">
           <hr style="color:#fff">
           <br>
-          <p>© 2020 <a href="index.html" class="base--color">Follow The Money Investor Group</a>. All rights reserved</p>
+          <p>© 2023 <a href="index.php" class="base--color">Follow The Money Investor Group</a>. All rights reserved</p>
         </div>
         <div class="col-md-6">
           <ul class="social-link-list d-flex flex-wrap justify-content-md-end justify-content-center">
