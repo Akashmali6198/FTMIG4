@@ -792,7 +792,7 @@ box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
             <div class="cta-wrapper bg_img border-radius--10 text-center" data-background="assets/images/bg/bg-8.jpg">
               <h2 class="title mb-3">Get Started Today With Us</h2>
               <p>This is a Revolutionary Money Making Platform! Invest for Future in Stable Platform and Make Fast Money. Not only we guarantee the fastest and the most exciting returns on your investments, but we also guarantee the security of your investment.</p>
-              <a href="registration.html" class="cmn-btn mt-4">Join Us</a>
+              <a href="<?php echo base_url("registration");?>" class="cmn-btn mt-4">Join Us</a>
             </div>
           </div>
         </div>
