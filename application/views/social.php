@@ -81,7 +81,7 @@ padding: 0% 20% 3% 20%;
 </style>
 <section>
   <div class="container-fluid banner overlay">
-    <h1>Social</h1>
+    <h1>Social2</h1>
   </div>
 
 </section>
