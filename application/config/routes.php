@@ -61,6 +61,7 @@ $route['register'] = 'AuthController/register_user';
 
 // Default controller
 $route['home'] = 'WebController/index';
+$route['browse-events'] = 'WebController/browse-events';
 $route['tv'] = 'WebController/tv';
 $route['event'] = 'WebController/event';
 // $route->post('storeevent', 'WebController::StoreEvent');
