@@ -46,7 +46,7 @@
         padding-right:6%;
       }
       .card{
-  border:solid #B78B36 2px;
+  border:solid #78a343 2px;
       }
 
       /* video popup */
