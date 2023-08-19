@@ -111,7 +111,7 @@
 
 .embed-responsive-item
 { 
-  border-bottom: solid #CCA354 1px!important;
+  border-bottom: solid #78a343 1px!important;
 }
 
 .card:hover{

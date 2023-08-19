@@ -58,6 +58,9 @@ img.mix-quote.entered.lazyloaded {
 .home-network img {
     filter: hue-rotate(29deg);
 }
+img.ix-multi-quote-icon.entered.lazyloaded {
+    filter: hue-rotate(29deg)!important;
+}
 img {
     max-width: 100%;
     height: auto;

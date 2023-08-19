@@ -99,7 +99,7 @@
   }
 
   .featured-article a:hover {
-    color:#CCA354;
+    color:#78a343;
   }
 
   .mag-h-two h4 {

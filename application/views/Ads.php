@@ -72,7 +72,7 @@ h1.ie-ix-title {
 }
 
 .info-menu .idxp-ul li.active a {
-  border-bottom-color:#CCA354;
+  border-bottom-color:#78a343;
   color:white;
 }
 .info-menu .idxp-ul li.deactive a {
@@ -96,12 +96,12 @@ h1.ie-ix-title {
 }
 
 .ix-multi-download a {
-  color: #ffd700;
+  color: #78a343;
   text-decoration: none;
 }
 
 .gold {
-  color: #ffd700;
+  color: #78a343;
 }
 
 .rmac-col-inner h3 {
@@ -147,7 +147,7 @@ h1.ie-ix-title {
   display: block;
   width: 50px;
   height: 4px;
-  background-color:#CCA354;
+  background-color:#78a343;
   margin-top: 10px;
 }
 
@@ -174,7 +174,7 @@ h1.ie-ix-title {
 }
 
 .wvbtn-desktop .button-main:hover {
-  background-color:#cca354;
+  background-color:#78a343;
   color: #000;
 }
 
@@ -256,7 +256,7 @@ h1.ie-ix-title {
   font-size: 20px;
   font-weight: bold;
   margin: 0;
-  color:#cca354;
+  color:#78a343;
 }
 
 .ix-multi-quote-job {
@@ -396,7 +396,7 @@ p.ix-multi-subline {
                     </div><!--col--> 
 
                     <div class="col-12 wvbtn-desktop">
-                        <a href="https://6ix.com/meet/biancapisciola/" style="color:white;" class="button-main stroke-white"> 
+                        <a href="#" style="color:white;" class="button-main stroke-white"> 
                          <span class="hscb-text">Request Demo</span> 
                         </a>
                     </div><!--col-->
@@ -451,18 +451,18 @@ p.ix-multi-subline {
 
             <div class="rmac-col-inner down-rmac" style="background-color:#2a2828;">
 
-                <p class="ix-multi-download">Already a user? <a href="https://6ix.com/investor-experience/strategy/"><span class="gold">Log In</span></a></p>
+                <p class="ix-multi-download">Already a user? <a href="<?php echo base_url("login");?>"><span class="gold">Log In</span></a></p>
 
                  <h3>Download the Desktop App</h3>
 
                 <div class="row ix-multi-down">
                         <div class="col-12">
-                            <a href="https://download.6ix.com">
+                            <a href="#">
                                 <div class="ie-down-box">
                                 <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/mac.png" class="ix-multi-down-icon entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/mac.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/mac.png" class="ix-multi-down-icon"></noscript>
                                 </div><!--down-box-->								
                             </a> 
-                        <a href="https://download.6ix.com">
+                        <a href="#">
                             <div class="ie-down-box">
                                 <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/win.png" class="ix-multi-down-icon entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/win.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/win.png" class="ix-multi-down-icon"></noscript>
                             </div><!--down-box-->
