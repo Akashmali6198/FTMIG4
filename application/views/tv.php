@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+<?php //include 'header.php' ?>
     <style>
       .card {
         margin-bottom: 1rem;
@@ -210,4 +210,4 @@ box-shadow: -1px -1px 14px 1px rgba(231,166,26,1);
     
     </section>
 
-    <?php include 'footer.php' ?>
+    <?php //include 'footer.php' ?>

@@ -2,7 +2,24 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class WebController extends CI_Controller {
+    
+    function __construct(){
+        parent::__construct();
+        // $this->load->helper("login_check_helper");
+        $this->check_login();
+        
+    }
 
+    private function check_login(){
+        // echo current_url();
+        if(current_url() != base_url()){
+            if(empty($this->session->userdata('user'))){
+                redirect("login"); 
+            }
+        }
+        
+       
+    }
 	public function index()
 	{
 		$this->load->view('components/header.php');
@@ -18,6 +35,7 @@ class WebController extends CI_Controller {
 	}
 	public function event()
 	{
+	
 		$this->load->view('components/header.php');
 		$this->load->view('event.php');
 		$this->load->view('components/footer.php');
@@ -33,5 +51,85 @@ class WebController extends CI_Controller {
 		$this->load->view('components/header.php');
 		$this->load->view('companie.php');
 		$this->load->view('components/footer.php');
+	}
+	public function StoreEvent(){
+
+		print_r($this->input->file());
+		  $data = array(  
+                        'name'     => $this->input->post('name'),  
+                        'meaning'  => $this->input->post('meaning'),  
+                        'gender'   => $this->input->post('gender'),  
+                        'religion' => $this->input->post('religion')  
+                        );  
+        //insert data into database table.  
+        $this->db->insert('baby',$data);  
+  
+	}
+
+	public function Conferences(){
+		$this->load->view('components/header.php');
+		$this->load->view('Conferences.php');
+		$this->load->view('components/footer.php');
+
+	}
+	public function Chat(){
+		$this->load->view('components/header.php');
+		$this->load->view('Chat.php');
+		$this->load->view('components/footer.php');
+
+	}
+	public function Magzine(){
+		$this->load->view('components/header.php');
+		$this->load->view('Magazine.php');
+		$this->load->view('components/footer.php');
+
+	}
+	public function Summits(){
+		$this->load->view('components/header.php');
+		$this->load->view('Summits.php');
+		$this->load->view('components/footer.php');
+
+	}
+	public function Strategy(){
+		$this->load->view('components/header.php');
+		$this->load->view('Strategy.php');
+		$this->load->view('components/footer.php');
+
+	}
+	public function Ixo(){
+		$this->load->view('components/header.php');
+		$this->load->view('IXO.php');
+		$this->load->view('components/footer.php');
+
+	}
+	public function Ads(){
+		$this->load->view('components/header.php');
+		$this->load->view('Ads.php');
+		$this->load->view('components/footer.php');
+
+	}
+	public function Creative(){
+		$this->load->view('components/header.php');
+		$this->load->view('Creative.php');
+		$this->load->view('components/footer.php');
+
+	}
+	public function Analytics(){
+		$this->load->view('components/header.php');
+		$this->load->view('Analytics.php');
+		$this->load->view('components/footer.php');
+
+	}
+	public function Web(){
+		$this->load->view('components/header.php');
+		$this->load->view('Web.php');
+		$this->load->view('components/footer.php');
+
+	}
+	
+	public function social(){
+	    $this->load->view('components/header.php');
+		$this->load->view('social.php');
+		$this->load->view('components/footer.php');   
 	}
 }

@@ -1,5 +1,88 @@
 
-    <!-- footer section start -->
+      <!--footer start  -->
+<!-- footer section start -->
+<div class="footusm-line"></div>
+<style>
+
+@media only screen and (max-width: 600px) {
+.f-usm-menu {
+display:block!important
+
+}
+.nav-pills .nav-link{
+  width:100%;
+  
+}
+/* media query */
+}
+
+    .f-usm-menu {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+    }
+
+    .f-usm-menu li {
+      margin-right: 1px;
+    }
+
+    .f-usm-menu li:last-child {
+      margin-right: 0;
+    }
+
+    .f-usm-menu li a {
+      text-decoration: none;
+      color:white;
+      padding: 29px;
+      font-size:20px;
+    }
+
+    
+
+    .f-usm-menu li img {
+   
+      object-fit: contain;
+      float:right;
+      width:150px;
+      
+    }
+    .ftback
+    {
+      background-color:black;
+    }
+    .foot-logo{
+      max-width:70%;
+    }
+  </style>
+<Section>
+  <div class="container-fluid ftback text-center">
+    
+        <div class="row">
+            <div class="col-md-12">
+                <hr style="border:solid gray 1px">
+                <ul id="scrolling-wrapper" class="f-usm-menu" data-dragging="false">
+                    <li>
+                        <a href="https://ftmig.com">
+                        <img src="assets/images/logo.png" class="foot-logo" alt="ftmig">
+                        </a>
+                    </li>
+                    <li><a href="">Signup/Login</a></li>
+                    <li><a href="about.php">About</a></li>
+                    <li><a href="invest.php">Invest</a></li>
+                    <li><a href="raise.php">Raise</a></li>
+                    <li><a href="host.php">Host</a></li>
+                    <li><a href="">Demo</a></li>
+                    <li><a href="">Pricing</a></li>
+                    <li><a href="">Security</a></li>
+                </ul>
+                <hr style="border:solid gray 1px">
+            </div>
+    </div>
+  </div>
+  </Section>
+    <!-- footer above -->
     <div class="footer__bottom">
     <div class="container" style="padding:30px">
       <div class="row">
@@ -9,12 +92,12 @@
         <div class="footer-pad">  
           <a href="#0" class="footer-logo"><img src="assets/images/logo.png" alt="image"></a>
           <ul class="list-unstyled">  
-            <li> <a href="#"> </a> </li>  
-            <li> <a href="#" style="color: aliceblue;">Events</a></li>  
+            <li> <a href="#"></a> </li>  
+            <li> <a href="<?php echo base_url("event");?>" style="color: aliceblue;">Events</a></li>  
             <li> <a href="#" style="color: aliceblue;">Live</a></li>  
-            <li> <a href="#" style="color: aliceblue;">TV</a></li>  
+            <li> <a href="<?php echo base_url("tv");?>" style="color: aliceblue;">TV</a></li>  
             <li> <a href="#" style="color: aliceblue;">Markets</a></li>  
-            <li> <a href="#" style="color: aliceblue;" >Magazine</a></li>  
+            <li> <a href="<?php echo base_url("magzine");?>" style="color: aliceblue;" >Magazine</a></li>  
           </ul>  
         </div>  
       </div>  
@@ -23,12 +106,12 @@
          <h4>INVESTMENT DISCOVERY PLATFORM</h4>
          <br>
           <ul class="list-unstyled">  
-            <li><a href="#" style="color: aliceblue;" >Companies</a> </li>  
-            <li><a href="#" style="color: aliceblue;" >Speakers</a> </li>  
-            <li><a href="#" style="color: aliceblue;" >Conference</a></li>  
-            <li><a href="#" style="color: aliceblue;">Chat</a></li>  
-            <li><a href="#" style="color: aliceblue;">Strategy</a></li>  
-            <li><a href="#" style="color: aliceblue;">Summits</a></li>  
+            <li><a href="<?php echo base_url("companie");?>" style="color: aliceblue;" >Companies</a> </li>  
+            <li><a href="<?php echo base_url("speakers");?>" style="color: aliceblue;" >Speakers</a> </li>  
+            <li><a href="<?php echo base_url("conferences");?>" style="color: aliceblue;" >Conference</a></li>  
+            <li><a href="<?php echo base_url("chat");?>" style="color: aliceblue;">Chat</a></li>  
+            <li><a href="<?php echo base_url("statergy");?>" style="color: aliceblue;">Strategy</a></li>  
+            <li><a href="<?php echo base_url("summits");?>" style="color: aliceblue;">Summits</a></li>  
           </ul>  
         </div>  
       </div>  
@@ -37,11 +120,11 @@
           <h4>INVESTOR EXPERIENCE PLATFORM</h4>
           <br>  
           <ul class="list-unstyled">  
-            <li> <a href="#" style="color: aliceblue;">Ads</a> </li>  
-            <li> <a href="#" style="color: aliceblue;">Web</a> </li>  
-            <li> <a href="#" style="color: aliceblue;" >Creative</a> </li>  
-            <li> <a href="#" style="color: aliceblue;" >IXO</a> </li>  
-            <li> <a href="#" style="color: aliceblue;">Analytics</a> </li>  
+            <li> <a href="<?php echo base_url("ads");?>" style="color: aliceblue;">Ads</a> </li>  
+            <li> <a href="<?php echo base_url("web");?>" style="color: aliceblue;">Web</a> </li>  
+            <li> <a href="<?php echo base_url("creative");?>" style="color: aliceblue;" >Creative</a> </li>  
+            <li> <a href="<?php echo base_url("ixo");?>" style="color: aliceblue;" >IXO</a> </li>  
+            <li> <a href="<?php echo base_url("analytics");?>" style="color: aliceblue;">Analytics</a> </li>  
           </ul>  
         </div>  
       </div>  
@@ -50,7 +133,7 @@
             <br>  
             <ul class="social-network social-circle">  
              <li> <a href="#" class="icoFacebook" title="Facebook" style="color: aliceblue;">(833) 544-4456</a> </li>  
-             <li> <a href="#" class="icoLinkedin" title="Linkedin" style="color: aliceblue;">friends@6ix.com</a> </li>  
+             <li> <a href="#" class="icoLinkedin" title="Linkedin" style="color: aliceblue;">friends@FTMIG.com</a> </li>  
     <li> <a href="#" style="color: aliceblue;">#202-1200 Bay St., Toronto,
 Ontario, Canada, M5R 2A5</a> </li>  
             </ul>               

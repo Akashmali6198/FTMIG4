@@ -57,7 +57,7 @@
     <div class="header__bottom">
       <div class="container">
         <nav class="navbar navbar-expand-xl p-0 align-items-center">
-          <a class="site-logo site-title" href="index.php"><img src="assets/images/logo.png" alt="site-logo"></a>
+          <a class="site-logo site-title" href="<?= base_url(); ?>"><img src="assets/images/logo.png" alt="site-logo"></a>
           <ul class="account-menu mobile-acc-menu">
             <li class="icon">
               <a href="login.php"><i class="las la-user"></i></a>
@@ -68,28 +68,27 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav main-menu m-auto">
-
-              <li> <a href="<?php echo base_url("event");?>">Events</a></li>
-              <li> <a href="#">Live</a></li>
+            <li> <a href="<?php echo base_url("event");?>">Events</a></li>
+               <li> <a href="<?php echo base_url("event");?>">Live</a></li>
               <li> <a href="<?php echo base_url("tv");?>">TV</a></li>
-              <li><a href="#">Markets</a></li>
-              <li><a href="#">Magazine</a></li>
+              <li><a href="<?= base_url("social"); ?>">Social</a></li>
+              <li><a href="<?php echo base_url("magzine");?>">Magazine</a></li>
               <li><a href="<?php echo base_url("companie");?>">Companies</a></li>
               <li><a href="<?php echo base_url("speakers");?>">Speakers</a></li>
-              <li><a href="#">Chat</a></li>
-              <li><a href="#">Conferences</a></li>
+              <li><a href="<?php echo base_url("chat");?>">Chat</a></li>
+              <li><a href="<?php echo base_url("conferences");?>">Conferences</a></li>
             </ul>
             <div class="nav-right">
               <ul class="account-menu ml-3">
                 <li class="icon">
-                  <a href="login.php"><i class="las la-user"></i></a>
+                  <a href="<?= base_url("login"); ?>"><i class="las la-user"></i></a>
                 </li>
               </ul> 
-              <select class="select d-inline-block w-auto ml-xl-3">
-                <option>Eng</option>
+              <!--<select class="select d-inline-block w-auto ml-xl-3">-->
+                <!--<option>Eng</option>-->
                 <!-- <option>Ban</option>
                 <option>Hin</option> -->
-              </select>
+              <!--</select>-->
             </div>
           </div> 
         </nav>

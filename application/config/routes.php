@@ -53,9 +53,35 @@ $route['default_controller'] = 'WebController';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
+// Auth routes
+$route['login'] = 'AuthController';
+$route['login_auth'] = 'AuthController/login_authentication';
+$route['sign_up'] = 'AuthController/sign_up';
+$route['register'] = 'AuthController/register_user';
+
 // Default controller
+$route['home'] = 'WebController/index';
 $route['tv'] = 'WebController/tv';
 $route['event'] = 'WebController/event';
+// $route->post('storeevent', 'WebController::StoreEvent');
+$route['storeevent'] = 'WebController/StoreEvent';
+
 $route['speakers'] = 'WebController/speakers';
 $route['companie'] = 'WebController/companie';
+$route['conferences'] = 'WebController/Conferences';
+$route['chat'] = 'WebController/Chat';
+$route['magzine'] = 'WebController/Magzine';
+$route['summits'] = 'WebController/Summits';
+$route['statergy'] = 'WebController/Strategy';
+
+$route['ixo'] = 'WebController/Ixo';
+$route['ads'] = 'WebController/Ads';
+$route['analytics'] = 'WebController/Analytics';
+$route['web'] = 'WebController/Web';
+$route['creative'] = 'WebController/Creative';
+$route['social'] = 'WebController/social';
+
+
+
+
 

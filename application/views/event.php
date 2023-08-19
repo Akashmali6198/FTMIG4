@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+<?php //include 'header.php' ?>
 <style>
   /* banner style */
 
@@ -112,4 +112,4 @@
       </div>
     </section>
     <!-- blog section end -->
-<?php include 'footer.php' ?>
+<?php //include 'footer.php' ?>

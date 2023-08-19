@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+<?php //include 'header.php' ?>
 
 <style>
       #slider .carousel-item {
@@ -503,4 +503,4 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
 
 
 
-<?php include 'footer.php' ?>
+<?php //include 'footer.php' ?>
