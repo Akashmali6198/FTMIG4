@@ -188,11 +188,7 @@ class WebController extends CI_Controller {
 		$this->load->view('registration.php');
 		$this->load->view('components/footer.php');   
 	}
-	public function create_event(){
-	    $this->load->view('components/header.php');
-		$this->load->view('create_event.php');
-		$this->load->view('components/footer.php');   
-	}
+
 
 
 }
