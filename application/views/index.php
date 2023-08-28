@@ -492,7 +492,7 @@ box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
           <div class="col-lg-6 text-center">
             <div class="section-header">
               <h2 class="section-title"><span class="font-weight-normal">What Users Say</span> <b class="base--color">About Us</b></h2>
-              <p>Discover the thoughts and opinions of our valued users. <br>Read through their feedback and testimonials to understand the impact we've had on their lives.</p>
+              <p>Discover the thoughts and opinions of our valued users. <br>Read through their feedback and testimonials to understand the impact <br>we've had on their lives.</p>
             </div>
           </div>
         </div><!-- row end -->
