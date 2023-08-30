@@ -6,7 +6,7 @@ class WebController extends CI_Controller {
     function __construct(){
         parent::__construct();
         // $this->load->helper("login_check_helper");
-        $this->check_login();
+        // $this->check_login();
         
     }
 
