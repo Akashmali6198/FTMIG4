@@ -79,7 +79,7 @@ font-weight:500;
         <div class="row">
             <div class="col-md-12">
               
-             <h1><span style="font-size:60px;color:#78a343;">About2</span>
+             <h1><span style="font-size:60px;color:#78a343;">About</span>
               <br>Debate, fund, and build<br>
               the future, together</h1>
               <hr style="border: solid 2px #78a343;width:35%;" >
