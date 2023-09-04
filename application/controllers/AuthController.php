@@ -46,6 +46,12 @@ class AuthController extends CI_Controller {
 
     }
 
+    public function registration(){
+	    $this->load->view('components/header.php');
+		$this->load->view('registration.php');
+		$this->load->view('components/footer.php');   
+	}
+
     public function sign_up(){
         $this->load->view('registration.php');
     }
