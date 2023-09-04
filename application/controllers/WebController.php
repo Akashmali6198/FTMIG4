@@ -6,7 +6,7 @@ class WebController extends CI_Controller {
     function __construct(){
         parent::__construct();
         // $this->load->helper("login_check_helper");
-        $this->check_login();
+        // $this->check_login();
         
     }
 
@@ -183,7 +183,11 @@ class WebController extends CI_Controller {
 		$this->load->view('security.php');
 		$this->load->view('components/footer.php');   
 	}
-	
+	public function registration(){
+	    $this->load->view('components/header.php');
+		$this->load->view('registration.php');
+		$this->load->view('components/footer.php');   
+	}
 
 
 
