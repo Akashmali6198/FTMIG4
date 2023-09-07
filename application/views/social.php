@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 
 
 
@@ -349,5 +349,3 @@ padding: 0% 20% 3% 20%;
 
 
 
-
-<?php include 'footer.php' ?>
