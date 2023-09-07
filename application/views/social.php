@@ -1,3 +1,6 @@
+<?php include 'header.php' ?>
+
+
 
 
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v17.0" nonce="xWlWVaf5"></script>
@@ -236,3 +239,115 @@ padding: 0% 20% 3% 20%;
 
 
 <!-- youtube playlist ended -->
+
+
+<!-- new design social -->
+<style>
+/* .flex-column {
+    -ms-flex-direction: row!important;
+    flex-direction: row!important;
+} */
+.nav-pills .nav-link {
+  
+    margin-bottom: 10%;
+}
+</style>
+
+<div class="container" style="padding-top:5%;">
+  <div class="row">
+    <div class="col-md-3">
+      <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+        <a class="nav-link active colorchange" id="v-pills-tab-1" data-toggle="pill" href="#v-pills-1" role="tab" aria-controls="v-pills-1" aria-selected="true">
+
+        <!-- instagram -->
+        <h2 class="pb-4"><img style="margin-top:-10px;" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width=50 height=50>INSTAGRAM</h2>
+             
+
+        </a>
+        <a class="nav-link colorchange" id="v-pills-tab-2" data-toggle="pill" href="#v-pills-2" role="tab" aria-controls="v-pills-2" aria-selected="false">
+            <h3 class="speaker">WestHaven<h3>
+            <h6>GOLD CORP </h6>
+        </a>
+        <a class="nav-link colorchange" id="v-pills-tab-3" data-toggle="pill" href="#v-pills-3" role="tab" aria-controls="v-pills-3" aria-selected="false">
+
+        <h3 class="speaker">Vizsla<h3>
+            <h6>SILVER CORP</h6>
+        </a>
+    
+        <a class="nav-link colorchange" id="v-pills-tab-4" data-toggle="pill" href="#v-pills-4" role="tab" aria-controls="v-pills-4" aria-selected="false">
+            
+        <h3 class="speaker">Appia<h3>
+            <h6>RARE EARTHS & URANIUM</h6>
+        </a>
+
+        <a class="nav-link colorchange" id="v-pills-tab-5" data-toggle="pill" href="#v-pills-5" role="tab" aria-controls="v-pills-5" aria-selected="false">
+            
+        <h3 class="speaker">Romios<h3>
+            <h6>GOLD RESOURCES INC</h6>
+        </a>
+
+        
+      </div>
+    </div>
+
+
+    <div class="col-md-9">
+      <div class="tab-content" id="v-pills-tabContent">
+
+        <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-tab-1">
+          <!-- instagram start -->
+
+          <div class="col-md-6">
+               <iframe loading="lazy" src="https://www.instagram.com/ftminvest/embed" width="500" height="550" frameborder="0" scrolling="yes" allowtransparency="true"></iframe>
+     
+            </div>
+          <!-- instagram end -->
+        h1
+        </div>
+       
+
+    <!-- tab2 -->
+        <div class="tab-pane fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-tab-2">
+          
+        h2
+         <!-- facebook start -->
+
+          <!-- facebook end -->
+        </div>
+
+        <!-- tab3 -->
+        <div class="tab-pane fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-tab-3">
+         
+        h3
+         <!-- twitter start -->
+
+          <!-- twitter  end -->
+        </div>
+
+        
+
+          <!-- tab4 -->
+        <div class="tab-pane fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-tab-4">
+         
+        h4
+         <!-- twitter spaces start -->
+
+          <!-- twitter spaces end -->
+        </div>
+     
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+<?php include 'footer.php' ?>
