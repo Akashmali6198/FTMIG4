@@ -85,7 +85,7 @@ display:block!important
     }
   </style>
 <Section>
-  <div class="container ftback text-center">
+  <div class="container-fluid ftback text-center">
     <div class="row">
       <div class="col-md-12">
       <hr style="border:solid gray 1px">
