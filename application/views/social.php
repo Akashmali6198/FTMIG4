@@ -62,15 +62,15 @@ padding: 4% !important;
   z-index: 1;
 }
 .social{
-  padding:5%;
+  /* padding:5%; */
   /* background-color:black; */
   background-image: url(assets/images/bg/bg-5.jpg);
   background-size: cover;
-
+padding-top:4%;
 
 }
 .socialrow{
-  padding-top:5%;
+  /* padding-top:5%; */
 }
 .socialrow iframe{
   -webkit-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
@@ -88,8 +88,13 @@ padding: 0% 20% 3% 20%;
   </div>
 
 </section>
-<!-- youtube palylist started -->
 
+
+
+
+
+<!-- ........................................................................ -->
+<!-- new design social -->
 <section class="social">
 <div class="container text-center">
 
@@ -104,69 +109,37 @@ padding: 0% 20% 3% 20%;
   </div>
 </div>
 
-      <div class="row socialrow">
-
-      <!-- instagran -->
-            <div class="col-md-6">
-              <h2 class="pb-4"><img style="margin-top:-10px;" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width=50 height=50>INSTAGRAM</h2>
-              <iframe loading="lazy" src="https://www.instagram.com/ftminvest/embed" width="500" height="550" frameborder="0" scrolling="yes" allowtransparency="true"></iframe>
-     
-            </div>  
-            <!-- facebook -->
-            <div class="col-md-6">
-            <h2 class="pb-4"><img style="margin-top:-10px;" src="https://www.freepnglogos.com/uploads/facebook-logo-13.png" width=50 height=50>FACEBOOK</h2>
-            <div class="fb-page" data-href="https://www.facebook.com/FTMIGMining/" data-tabs="timeline" data-width="500" data-height="550" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
-            </div>
-
-  
-      </div>
-
-
-      </div>
-
-<!-- twitter section started -->
-
-<div class="row text-center" style="margin-top:5%">
-  <div class="col-md-12">
-    
-
-    <h1 class="pb-4">
-    <img style="margin-top:-25px;" src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-download-twitter-png-transparent-image-and-clipart-8.png" width=80 height=80>
-    Twitter
-    <!-- <hr style="border:solid 2px #BC974F;width:30%;"> -->
-    </h1>
-
-  </div>
-</div>
-
-
-
-<div class="row text-center" style="margin-top:3%">
-  <div class="col-md-12 text-center twittersize">
-
-    <a class="twitter-timeline" data-height="550" href="https://twitter.com/FTMInvest?ref_src=twsrc%5Etfw">Tweets by FTMInvest</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-  </div>
-</div>
-
- <!-- twitter section ended -->
-
-
- </section>
-
-
- 
-
-
-
-
-      <!-- youtube playlist started -->
-
 <style>
+/* .flex-column {
+    -ms-flex-direction: row!important;
+    flex-direction: row!important;
+} */
+.nav-pills .nav-link {
+  
+}
+.nav-pills .nav-link {
+    margin-bottom: 4%;
+    padding: 16px;
+    margin-bottom:105px!important;
+    border: solid #78A343 2px;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: black;
+    box-shadow: 0 5px 10px 5px rgba(112, 204, 84, 0.5);
+    
+}
+.nav-link:hover{
+    box-shadow: 0 5px 10px 5px rgba(112, 204, 84, 0.5);
+    color: #fff;
+    background-color: black;
+}
+
+
 
 .playlist-frame {
       width: 100%;
-      height: 300px;
+      height: 170px;
       border: solid white 1px;
     }
     .playlist-frame:hover{
@@ -174,33 +147,111 @@ padding: 0% 20% 3% 20%;
     -moz-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
     box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
     
-
-
     }
-
 
 .ytplaylist{
   padding:2% 4% 5% 4% ;
 }
 </style>
 
-<section class="ytplaylist">
+<div class="container" style="padding-top:5%;">
+  <div class="row">
+    <div class="col-md-3">
+      <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+        <a class="nav-link active colorchange" id="v-pills-tab-1" data-toggle="pill" href="#v-pills-1" role="tab" aria-controls="v-pills-1" aria-selected="true">
 
-      <div class="row text-center" style="margin-top:3%">
-  <div class="col-md-12">
+        <!-- instagram -->
+        <h3 class="socialicon"><img style="margin-top:-10px;" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width=30 height=30>Instagram</h3>
+             
 
-  
-  <h1 class="pb-4">
-  <img style="margin-top:-25px;" src="https://www.freepnglogos.com/uploads/youtube-tv-png/youtube-tv-icones-youtube-images-youtube-png-ico-0.png" width=80 height=80>
+        </a>
+        <a class="nav-link colorchange" id="v-pills-tab-2" data-toggle="pill" href="#v-pills-2" role="tab" aria-controls="v-pills-2" aria-selected="false">
+           <!-- facebook -->
+           <h3><img style="margin-top:-10px;" src="https://www.freepnglogos.com/uploads/facebook-logo-13.png" width=30 height=30>Facebook</h3>
+        </a>
+        <a class="nav-link colorchange" id="v-pills-tab-3" data-toggle="pill" href="#v-pills-3" role="tab" aria-controls="v-pills-3" aria-selected="false">
+        <!-- twitter -->
+        <h3 >
+    <img style="margin-top:-10px;" src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-download-twitter-png-transparent-image-and-clipart-8.png" width=30 height=30>
+    Twitter
+    <!-- <hr style="border:solid 2px #BC974F;width:30%;"> -->
+    </h3>
+        </a>
+    
+        <a class="nav-link colorchange" id="v-pills-tab-4" data-toggle="pill" href="#v-pills-4" role="tab" aria-controls="v-pills-4" aria-selected="false">
+       <!--youtube-->
+       <h3>
+  <img style="margin-top:-10px;" src="https://www.freepnglogos.com/uploads/youtube-tv-png/youtube-tv-icones-youtube-images-youtube-png-ico-0.png" width=30 height=30>
   Youtube
   <!-- <hr style="border:solid 2px #BC974F;width:30%;"> -->
-  </h1>
-  
-  </div>
-</div>
+  </h3>
+        </a>
+
+        <!-- <a class="nav-link colorchange" id="v-pills-tab-5" data-toggle="pill" href="#v-pills-5" role="tab" aria-controls="v-pills-5" aria-selected="false">
+        <h3 >
+    <img style="margin-top:-10px;" src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-download-twitter-png-transparent-image-and-clipart-8.png" width=30 height=30>
+    Twitter spaces
+   
+    </h3>
+        </a> -->
+
+        
+      </div>
+    </div>
 
 
-<div class="row  mt-5">
+    <div class="col-md-9">
+      <div class="tab-content" id="v-pills-tabContent">
+
+        <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-tab-1">
+          <!-- instagram start -->
+
+          <div class="col-md-12" style="padding-left:0%">
+               <iframe loading="lazy" src="https://www.instagram.com/ftminvest/embed" width="800" height="600" frameborder="0" scrolling="yes" allowtransparency="true"></iframe>
+     
+            </div>
+          <!-- instagram end -->
+      
+        </div>
+       
+
+    <!-- tab2 -->
+        <div class="tab-pane fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-tab-2">
+          
+        
+         <!-- facebook start -->
+         <div class="col-md-12" style="padding-left:28%">
+
+         <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFTMIGMining&tabs=timeline&width=700&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="750" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+         </div>
+          
+          <!-- facebook end -->
+        </div>
+
+        <!-- tab3 -->
+        <div class="tab-pane fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-tab-3">
+         
+    
+         <!-- twitter start -->
+         <div class="col-md-12" style="padding-left:5%">
+            
+         <a class="twitter-timeline" data-height="600" data-width="800" href="https://twitter.com/FTMInvest?ref_src=twsrc%5Etfw">Tweets by FTMInvest</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+         
+         </div>
+         <!-- twitter  end -->
+        </div>
+
+        
+
+          <!-- tab4 -->
+        <div class="tab-pane fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-tab-4">
+         
+       
+         <!-- youtube start -->
+<div class="container" style="padding:0% 1% 0% 1%;">
+       
+         <div class="row">
       <div class="col-md-4 mb-4">
         <iframe class="playlist-frame" src="https://www.youtube.com/embed?listType=playlist&list=PLnXd6JvE9ju-xDVnIfM0YU99J0NOm0LYS" frameborder="0" allowfullscreen></iframe>
       </div>
@@ -230,14 +281,26 @@ padding: 0% 20% 3% 20%;
       </div>
     </div>
   </div>
+</div>
+          <!-- youtube end -->
+        </div>
+     
+  <!-- tab4 -->
+    <div class="tab-pane fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-tab-4">
+
+    
+    </div>
 
 
-</section>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+        </section>
 
 
 
-
-
-<!-- youtube playlist ended -->
 
 
