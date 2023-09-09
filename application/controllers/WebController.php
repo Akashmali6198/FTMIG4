@@ -145,7 +145,7 @@ class WebController extends CI_Controller {
 	}
 	public function Twitter(){
 	    $this->load->view('components/header.php');
-		$this->load->view('twitter.php');
+		$this->load->view('twitter-spaces.php');
 		$this->load->view('components/footer.php');   
 	}
 	public function About(){
