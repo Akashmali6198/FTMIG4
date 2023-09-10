@@ -151,6 +151,12 @@ padding: 0% 20% 3% 20%;
 .ytplaylist{
   padding:2% 4% 5% 4% ;
 }
+img.imgsize {
+    height: 350px;
+}
+h4.blog-card__title.mb-3 {
+    font-size: 20px;
+}
 </style>
 
 <div class="container" style="padding-top:5%;">
