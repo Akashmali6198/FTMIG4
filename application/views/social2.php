@@ -285,9 +285,16 @@ padding: 0% 20% 3% 20%;
           <div class="tab-pane fade" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-tab-5">
 
 <!-- twitter space start -->
-<section class="pt-0 pb-0">
+<section class="pt-120 pb-120 border-top-1">
       <div class="container">
-        
+        <div class="row justify-content-center">
+          <div class="col-lg-6 text-center">
+            <div class="section-header">
+              <h2 class="section-title"><span class="font-weight-normal">Our Latest </span> <b class="base--color">Spaces</b></h2>
+              <!-- <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse voluptatum eaque earum quos quia Id aspernatur ratione, voluptas nulla rerum laudantium neque ipsam eaque</p> -->
+            </div>
+          </div>
+        </div><!-- row end -->
         <div class="row justify-content-center mb-none-30">
           <div class="col-lg-4 col-md-6 mb-30">
             <div class="blog-card">
@@ -309,29 +316,6 @@ padding: 0% 20% 3% 20%;
             </div>
           </div>
           <div class="col-lg-4 col-md-6 mb-30">
-            <div class="blog-card">
-              <div class="blog-card__thumb">
-                <img class="imgsize "src="assets/images/space2.jpeg" alt="image">
-              </div>
-              <div class="blog-card__content">
-                <h4 class="blog-card__title mb-3"><a href="https://twitter.com/i/spaces/1eaKbrWnVonKX">Join us live Thursday @8pm ET as we catch up with $FDR</a></h4>
-                <ul class="blog-card__meta d-flex flex-wrap mb-4">
-                <li>
-                    <i class="las la-calendar"></i>
-                    <a href="https://twitter.com/i/spaces/1eaKbrWnVonKX">31st August, 2023</a>
-                  </li>
-                </ul>
-                <p>Follow The Money Invest...@FoundersMetals President & CEO Colin Padget to discuss why his company is up 200% YOY in a down market
-<br><br></p>
-                <!-- <a href="#0" class="cmn-btn btn-md mt-4">Read More</a> -->
-              </div>
-            </div>
-          </div>
-          <div class="col-md-12 text-center">
-           <a href="<?php echo base_url("Twitter");?>" style="color: aliceblue;" class="cmn-btn btn-md mt-4">Explore More</a>
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-30">
             <div class="blog-card">
               <div class="blog-card__thumb">
                 <img class="imgsize "src="assets/images/space2.jpeg" alt="image">
@@ -373,9 +357,7 @@ JOIN US TOMORROW AS WE DISCUSS WHY THE GREEN TRANSITION MEANS SCARCITY & OPPORTU
           </div>
         </div>
       </div>
-
-
-          </section>
+    </section>
     
 
 
