@@ -207,7 +207,7 @@ padding: 0% 20% 3% 20%;
           <!-- instagram start -->
 
           <div class="col-md-12" style="padding-left:0%">
-               <iframe loading="lazy" src="https://www.instagram.com/ftminvest/embed" width="800" height="600" frameborder="0" scrolling="yes" allowtransparency="true"></iframe>
+               <iframe loading="lazy" src="https://www.instagram.com/ftminvest/embed" width="800" height="800" frameborder="0" scrolling="yes" allowtransparency="true"></iframe>
      
             </div>
           <!-- instagram end -->
