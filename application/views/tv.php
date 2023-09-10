@@ -144,47 +144,37 @@ box-shadow: -1px -1px 14px 1px rgba(231,166,26,1);
 
      <!-- youtube start -->
 <div class="container" style="padding:1% 3% 1% 3%;">
-         <div class="row  mt-5">
-         <div class="col-md-4 mb-5">
-            <iframe class="playlist-frame" src="https://www.youtube.com/embed/bTlDMnaWRhA" frameborder="0" allowfullscreen></iframe>
-            <h3>Renforth Resources (CSE: RFR) - January 2021 Town Hall Discussion</h3>
-        </div>
-        <div class="col-md-4 mb-4">
-            <iframe class="playlist-frame" src="https://www.youtube.com/embed/7nHG0yZ7hj8" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 2</h3>
-        </div>
-        <div class="col-md-4 mb-4">
-            <iframe class="playlist-frame" src="https://www.youtube.com/embed/1LVUGQaZg9M" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 3</h3>
-        </div>
-        <div class="col-md-4 mb-4">
-            <iframe class="playlist-frame" src="https://www.youtube.com/embed/QV288nIoG24" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 4</h3>
-        </div>
-        <div class="col-md-4 mb-4">
-            <iframe class="playlist-frame" src="https://www.youtube.com/embed/7nHG0yZ7hj8" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 5</h3>
-        </div>
-        <div class="col-md-4 mb-4">
-            <iframe class="playlist-frame" src="https://www.youtube.com/embed/bJ801ecUXoM" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 6</h3>
-        </div>
-        <div class="col-md-4 mb-4">
-            <iframe class="playlist-frame" src="https://www.youtube.com/embed/bJ801ecUXoM" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 7</h3>
-        </div>
-        <div class="col-md-4 mb-4">
-            <iframe class="playlist-frame" src="https://www.youtube.com/embed/UbPmF0Sn6Lk" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 8</h3>
-        </div>
-        <div class="col-md-4 mb-4">
-            <iframe class="playlist-frame" src="https://www.youtube.com/embed/M1qgifBggZc" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 9</h3>
-        </div>
-        <div class="col-md-4 mb-4">
-            <iframe class="playlist-frame" src="https://www.youtube.com/embed/ekaENx8YjRk" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 10</h3>
-        </div>
+<div class="row mt-5">
+    <div class="col-md-4 mb-5">
+        <iframe class="playlist-frame" src="https://www.youtube.com/embed/bTlDMnaWRhA" frameborder="0" allowfullscreen></iframe>
+        <h3>Renforth Resources (CSE: RFR) - January 2021 Town Hall Discussion</h3>
+    </div>
+    <div class="col-md-4 mb-4">
+        <iframe class="playlist-frame" src="https://www.youtube.com/embed/7nHG0yZ7hj8" frameborder="0" allowfullscreen></iframe>
+        <h3>Uranium Round Table Event - Cameco Post Earnings Call Roundtable</h3>
+    </div>
+    <div class="col-md-4 mb-4">
+        <iframe class="playlist-frame" src="https://www.youtube.com/embed/1LVUGQaZg9M" frameborder="0" allowfullscreen></iframe>
+        <h3>Ely Gold Royalties October 1st Town Hall Investor Update</h3>
+    </div>
+    <div class="col-md-4 mb-4">
+        <iframe class="playlist-frame" src="https://www.youtube.com/embed/QV288nIoG24" frameborder="0" allowfullscreen></iframe>
+        <h3>ELY GOLD ROYALTIES INVESTOR UPDATE - July 20th 2020</h3>
+    </div>
+    <div class="col-md-4 mb-4">
+        <iframe class="playlist-frame" src="https://www.youtube.com/embed/UbPmF0Sn6Lk" frameborder="0" allowfullscreen></iframe>
+        <h3>Video Title 8</h3>
+    </div>
+    <div class="col-md-4 mb-4">
+        <iframe class="playlist-frame" src="https://www.youtube.com/embed/M1qgifBggZc" frameborder="0" allowfullscreen></iframe>
+        <h3>Video Title 9</h3>
+    </div>
+    <div class="col-md-4 mb-4">
+        <iframe class="playlist-frame" src="https://www.youtube.com/embed/ekaENx8YjRk" frameborder="0" allowfullscreen></iframe>
+        <h3>Video Title 10</h3>
+    </div>
+</div>
+
 
         <!-- 2 -->
         <div class="col-md-4 mb-4">
