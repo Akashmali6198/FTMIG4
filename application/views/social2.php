@@ -293,7 +293,7 @@ h4.blog-card__title.mb-3 {
 <!-- twitter space start -->
 <section class="pt-120 pb-120 border-top-1">
       <div class="container">
-        <div class="row justify-content-center mb-none-30">
+        <div class="row  mb-none-30">
           <div class="col-lg-4 col-md-6 mb-30">
             <div class="blog-card">
               <div class="blog-card__thumb">
