@@ -183,6 +183,11 @@ class WebController extends CI_Controller {
 		$this->load->view('security.php');
 		$this->load->view('components/footer.php');   
 	}
+	public function social2(){
+	    $this->load->view('components/header.php');
+		$this->load->view('social2.php');
+		$this->load->view('components/footer.php');   
+	}
 	
 
 }

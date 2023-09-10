@@ -126,7 +126,8 @@ display:block!important
             <li> <a href="<?php echo base_url("tv");?>" style="color: aliceblue;">TV</a></li>  
             <li> <a href="<?php echo base_url("#");?>"style="color: aliceblue;">Markets</a></li>  
             <!-- <li> <a href="Magazine.php" style="color: aliceblue;" >Magazine</a></li>  -->
-            <li> <a href="<?php echo base_url("Twitter");?>" style="color: aliceblue;" >Twitter</a></li>  
+            <li> <a href="<?php echo base_url("Twitter");?>" style="color: aliceblue;" >Twitter Spaces</a></li>  
+            <li> <a href="<?php echo base_url("social2");?>" style="color: aliceblue;" >social2</a></li> 
           </ul>  
         </div>  
       </div>  
