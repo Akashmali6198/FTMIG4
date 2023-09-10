@@ -211,7 +211,7 @@ h4.blog-card__title.mb-3 {
         <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-tab-1">
           <!-- instagram start -->
 
-          <div class="col-md-12" style="padding-left:15%">
+          <div class="col-md-12" style="padding-left:0%">
                <iframe loading="lazy" src="https://www.instagram.com/ftminvest/embed" width="800" height="740" frameborder="0" scrolling="yes" allowtransparency="true"></iframe>
      
             </div>
@@ -239,7 +239,7 @@ h4.blog-card__title.mb-3 {
          
     
          <!-- twitter start -->
-         <div class="col-md-12" style="padding-left:0%">
+         <div class="col-md-12" style="padding-left:15%">
 
          <a class="twitter-timeline" data-height="740" data-width="800" href="https://twitter.com/FTMInvest?ref_src=twsrc%5Etfw">Tweets by FTMInvest</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
          
