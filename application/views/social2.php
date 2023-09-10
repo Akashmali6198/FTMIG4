@@ -287,14 +287,6 @@ padding: 0% 20% 3% 20%;
 <!-- twitter space start -->
 <section class="pt-120 pb-120 border-top-1">
       <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-6 text-center">
-            <div class="section-header">
-              <h2 class="section-title"><span class="font-weight-normal">Our Latest </span> <b class="base--color">Spaces</b></h2>
-              <!-- <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse voluptatum eaque earum quos quia Id aspernatur ratione, voluptas nulla rerum laudantium neque ipsam eaque</p> -->
-            </div>
-          </div>
-        </div><!-- row end -->
         <div class="row justify-content-center mb-none-30">
           <div class="col-lg-4 col-md-6 mb-30">
             <div class="blog-card">
