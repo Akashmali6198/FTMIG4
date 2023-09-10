@@ -166,41 +166,41 @@ box-shadow: -1px -1px 14px 1px rgba(231,166,26,1);
     </div>
     <div class="col-md-4 mb-4">
         <iframe class="playlist-frame" src="https://www.youtube.com/embed/UbPmF0Sn6Lk" frameborder="0" allowfullscreen></iframe>
-        <h3>Video Title 8</h3>
+        <h3>Renforth Resources (CSE: RFR) - Fully Funded & Asset Rich (November Town Hall Webinar)</h3>
     </div>
     <div class="col-md-4 mb-4">
         <iframe class="playlist-frame" src="https://www.youtube.com/embed/M1qgifBggZc" frameborder="0" allowfullscreen></iframe>
-        <h3>Video Title 9</h3>
+        <h3>Ross Beaty Joins the Morning Drive for Equinox Gold</h3>
     </div>
     <div class="col-md-4 mb-4">
         <iframe class="playlist-frame" src="https://www.youtube.com/embed/ekaENx8YjRk" frameborder="0" allowfullscreen></iframe>
-        <h3>Video Title 10</h3>
+        <h3>Skyharbour Resources joins the Morning Drive at VRIC</h3>
     </div>
 
         <!-- 2 -->
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/G_f4wCjv1Jk" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 11</h3>
+            <h3>The Morning Drive hosts Scottie Resources at VRIC</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/xeR7K_zXPSM" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 12</h3>
+            <h3>Headwater Gold on the Morning Drive at VRIC</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/jPxnhlRW2tM" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 13</h3>
+            <h3>Goviex Uranium Ltd. joins the Morning Drive at VRIC</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/9Hupdv0u3Ek" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 14</h3>
+            <h3>Banyan Gold Joins the Morning Drive at VRIC</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/el3Yh4WXuu8" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 15</h3>
+            <h3>Puma Exploration Inc. Joins the Morning Drive during VRIC</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/hVvFkmDK-DU" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 16</h3>
+            <h3>Video Title 166</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/svYANb7yV2I" frameborder="0" allowfullscreen></iframe>
