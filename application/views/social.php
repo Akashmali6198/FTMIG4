@@ -152,6 +152,9 @@ padding: 0% 20% 3% 20%;
 .ytplaylist{
   padding:2% 4% 5% 4% ;
 }
+img.imgsize {
+    height: 400px;
+}
 </style>
 
 <div class="container" style="padding-top:5%;">
@@ -299,10 +302,10 @@ padding: 0% 20% 3% 20%;
               <div class="blog-card__content">
                 <h4 class="blog-card__title mb-3"><a href="https://twitter.com/i/spaces/1vAxRAEmVXqJl">Join us Tuesday @10am ET as we learn all about @AIMLInnovations</a></h4>
                 <ul class="blog-card__meta d-flex flex-wrap mb-4">
-                  <li>
+                  <!-- <li>
                     <i class="las la-calendar"></i>
                     <a href="https://twitter.com/i/spaces/1vAxRAEmVXqJl">18 April, 2023</a>
-                  </li>
+                  </li> -->
                 </ul>
                 <p> $AIML AI/ML Innovations Inc is a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs</p>
                 <!-- <a href="#0" class="cmn-btn btn-md mt-4">Read More</a> -->
@@ -317,10 +320,10 @@ padding: 0% 20% 3% 20%;
               <div class="blog-card__content">
                 <h4 class="blog-card__title mb-3"><a href="https://twitter.com/i/spaces/1eaKbrWnVonKX">Join us live Thursday @8pm ET as we catch up with $FDR</a></h4>
                 <ul class="blog-card__meta d-flex flex-wrap mb-4">
-                <li>
+                <!-- <li>
                     <i class="las la-calendar"></i>
                     <a href="https://twitter.com/i/spaces/1eaKbrWnVonKX">31st August, 2023</a>
-                  </li>
+                  </li> -->
                 </ul>
                 <p>Follow The Money Invest...@FoundersMetals President & CEO Colin Padget to discuss why his company is up 200% YOY in a down market
 <br><br></p>
