@@ -290,7 +290,7 @@ padding: 0% 20% 3% 20%;
       <div class="container">
         
         <div class="row justify-content-center mb-none-30">
-          <div class="col-lg-4 col-md-6 mb-30">
+          <div class="col-lg-6 col-md-6 mb-30">
             <div class="blog-card">
               <div class="blog-card__thumb">
                 <img class="imgsize" src="assets/images/space1.jpeg"  alt="image">
@@ -309,7 +309,7 @@ padding: 0% 20% 3% 20%;
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 mb-30">
+          <div class="col-lg-6 col-md-6 mb-30">
             <div class="blog-card">
               <div class="blog-card__thumb">
                 <img class="imgsize "src="assets/images/space2.jpeg" alt="image">
