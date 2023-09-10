@@ -139,7 +139,7 @@ padding: 0% 20% 3% 20%;
 
 .playlist-frame {
       width: 100%;
-      height: 240px;
+      height: 200px;
       border: solid white 1px;
     }
     .playlist-frame:hover{
