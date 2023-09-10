@@ -173,8 +173,6 @@ box-shadow: -1px -1px 14px 1px rgba(231,166,26,1);
         <iframe class="playlist-frame" src="https://www.youtube.com/embed/ekaENx8YjRk" frameborder="0" allowfullscreen></iframe>
         <h3>Video Title 10</h3>
     </div>
-</div>
-
 
         <!-- 2 -->
         <div class="col-md-4 mb-4">
