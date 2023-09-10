@@ -283,10 +283,7 @@ padding: 0% 20% 3% 20%;
   </div>
 </div>
           <!-- youtube end -->
-        </div>
-     
-  <!-- tab5 -->
-    <div class="tab-pane fade" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-tab-5">
+          <div class="tab-pane fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-tab-4">
 
 <!-- twitter space start -->
 <section class="pt-120 pb-120 border-top-1">
@@ -363,6 +360,12 @@ JOIN US TOMORROW AS WE DISCUSS WHY THE GREEN TRANSITION MEANS SCARCITY & OPPORTU
       </div>
     </section>
     
+
+
+        </div>
+     
+  <!-- tab5 -->
+
 <!-- twitter soace end -->
     </div>
 
