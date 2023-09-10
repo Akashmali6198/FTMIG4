@@ -1,4 +1,4 @@
-
+<?php include 'header.php' ?>
     <style>
  @media (max-width: 768px) {
 
@@ -46,7 +46,7 @@
         padding-right:6%;
       }
       .card{
-  border:solid #78a343 2px;
+  border:solid #B78B36 2px;
       }
 
       /* video popup */
@@ -111,15 +111,25 @@
 
 .embed-responsive-item
 { 
-  border-bottom: solid #78a343 1px!important;
+  border-bottom: solid #CCA354 1px!important;
 }
 
 .card:hover{
-  -webkit-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+  -webkit-box-shadow: -1px -1px 14px 1px rgba(231,166,26,1);
+-moz-box-shadow: -1px -1px 14px 1px rgba(231,166,26,1);
+box-shadow: -1px -1px 14px 1px rgba(231,166,26,1);
+}
+.playlist-frame {
+      width: 100%;
+      height: 300px;
+      border: solid white 1px;
+    }
+    .playlist-frame:hover{
+      -webkit-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
     -moz-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
     box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
-}
-
+    
+    }
     </style>
 
 <section>
@@ -131,109 +141,208 @@
 
 <section>
     <!-- 1st video row -->
-    <div class="container-fluid videoc">
-      <div class="row">
-      <div class="col-md-3">
-        <div class="card h-100" data-video="https://www.youtube.com/watch?v=Wb6Oc1_SdJw">
-            <div class="card-img-top embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wb6Oc1_SdJw?autoplay=1&mute=1&controls=0" frameborder="0" allowfullscreen></iframe>
-            </div>
-            <div class="card-body">
-            <h5 class="card-title">The 6ix Report - Kodiak Closes Oversubscribed Upsized Private Placement</h5>
-            </div>
+
+     <!-- youtube start -->
+<div class="container" style="padding:1% 3% 1% 3%;">
+         <div class="row  mt-5">
+         <div class="col-md-4 mb-5">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/bTlDMnaWRhA" frameborder="0" allowfullscreen></iframe>
+            <h3>Renforth Resources (CSE: RFR) - January 2021 Town Hall Discussion</h3>
         </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/7nHG0yZ7hj8" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 2</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/1LVUGQaZg9M" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 3</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/QV288nIoG24" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 4</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/7nHG0yZ7hj8" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 5</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/bJ801ecUXoM" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 6</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/bJ801ecUXoM" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 7</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/UbPmF0Sn6Lk" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 8</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/M1qgifBggZc" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 9</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/ekaENx8YjRk" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 10</h3>
         </div>
 
-        <div class="col-md-3">
-        <div class="card h-100" data-video="https://www.youtube.com/watch?v=gYwQyyl7Wik??autoplay=1&mute=0">
-            <div class="card-img-top embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gYwQyyl7Wik?autoplay=1&mute=1&controls=0" frameborder="0" allowfullscreen></iframe>
-            </div>
-            <div class="card-body">
-            <h5 class="card-title">Golden Opportunities: Uncovering the Lifecycle of Gold Mines</h5>
-            </div>
+        <!-- 2 -->
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/G_f4wCjv1Jk" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 11</h3>
         </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/xeR7K_zXPSM" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 12</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/jPxnhlRW2tM" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 13</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/9Hupdv0u3Ek" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 14</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/el3Yh4WXuu8" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 15</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/hVvFkmDK-DU" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 16</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/svYANb7yV2I" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 17</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/4CAjYK3rs5Y" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 18</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/1vlIrIauxvY" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 19</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/AWT0fRkPjYY" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 20</h3>
+        </div>
+<!-- 3 -->
+<div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/iItxStHgFp4" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 21</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/vNAdfbETsLA" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 22</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/jl0gv6yT7OQ" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 23</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/Ibxnq4wviz0" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 24</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/a4FGuRWxOis" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 25</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/ANOfPxtG_Hw" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 26</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/Sh5gLvWr2rA" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 27</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/AUfZ6_55Mm8" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 28</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/HRBH8KQ7sj4" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 29</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/P6E0XMh8hfQ" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 30</h3>
+
+            </div>
+            <!-- 4 -->
+            <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/voQwBSh8220" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 31</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/eFpmw3jwADI" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 32</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/QFzjl--YYQk" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 33</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/-bU3o7TJiaE" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 34</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/-uKVpwlTrnk" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 35</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/VTAoRGt7JRw" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 36</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/RU1AoIKuA_A" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 37</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/WiowyAZsqi8" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 38</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/yH48agXJDqo" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 39</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/E8pV9KAJizk" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 40</h3>
         </div>
 
-        <div class="col-md-3">
-        <div class="card h-100" data-video="https://www.youtube.com/watch?v=Wb6Oc1_SdJw">
-            <div class="card-img-top embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wb6Oc1_SdJw?autoplay=1&mute=1&controls=0" frameborder="0" allowfullscreen></iframe>
-            </div>
-            <div class="card-body">
-            <h5 class="card-title">Marketing & Managing Major Deposits</h5>
-            </div>
+        <!-- 5 -->
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/kyS645sx2s0" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 41</h3>
         </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/biiUEb0fxrQ" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 42</h3>
         </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/WY7RIinHUVw" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 43</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/mZpJzjNxUuk" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 44</h3>
+        </div>
+        <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/Yhq0NR5QxWU" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 45</h3>
+        </div>
+        <!-- <div class="col-md-4 mb-4">
+            <iframe class="playlist-frame" src="https://www.youtube.com/embed/mF5WnKQbuHs" frameborder="0" allowfullscreen></iframe>
+            <h3>Video Title 46</h3>
+        </div> -->
+            
 
-        <div class="col-md-3">
-        <div class="card h-100" data-video="https://www.youtube.com/watch?v=Wb6Oc1_SdJw">
-            <div class="card-img-top embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wb6Oc1_SdJw?autoplay=1&mute=1&controls=0" frameborder="0" allowfullscreen></iframe>
-            </div>
-            <div class="card-body">
-            <h5 class="card-title">Projects With Historical Exploration: Going Where Others</h5>
-            </div>
-        </div>
-        </div>
-
-    </div>
+  </div> 
+  <!-- row -->
 </div>
-</section>
-    <!-- 2nd video row -->
-    <section>
-      <div class="container-fluid videoc1">
-      <div class="row">
-      <div class="col-md-3">
-        <div class="card h-100" data-video="https://www.youtube.com/watch?v=Wb6Oc1_SdJw">
-            <div class="card-img-top embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wb6Oc1_SdJw?autoplay=1&mute=1&controls=0" frameborder="0" allowfullscreen></iframe>
-            </div>
-            <div class="card-body">
-            <h5 class="card-title">The 6ix Report - Kodiak Closes Oversubscribed Upsized Private Placement</h5>
-            </div>
-        </div>
-        </div>
-
-
-        <div class="col-md-3">
-        <div class="card h-100" data-video="https://www.youtube.com/watch?v=Wb6Oc1_SdJw">
-            <div class="card-img-top embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wb6Oc1_SdJw?autoplay=1&mute=1&controls=0" frameborder="0" allowfullscreen></iframe>
-            </div>
-            <div class="card-body">
-            <h5 class="card-title">Creating a Greener, More Efficient Future</h5>
-            </div>
-        </div>
-        </div>
-
-        <div class="col-md-3">
-        <div class="card h-100" data-video="https://www.youtube.com/watch?v=Wb6Oc1_SdJw">
-            <div class="card-img-top embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wb6Oc1_SdJw?autoplay=1&mute=1&controls=0" frameborder="0" allowfullscreen></iframe>
-            </div>
-            <div class="card-body">
-            <h5 class="card-title">The Rocks are Talking, Are We Listening?</h5>
-            </div>
-        </div>
-        </div>
-
-        <div class="col-md-3">
-        <div class="card h-100" data-video="https://www.youtube.com/watch?v=Wb6Oc1_SdJw">
-            <div class="card-img-top embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wb6Oc1_SdJw?autoplay=1&mute=1&controls=0" frameborder="0" allowfullscreen></iframe>
-            </div>
-            <div class="card-body">
-            <h5 class="card-title">Giyani Metals President And CEO Danny Keating Discusses His</h5>
-            </div>
-        </div>
-        </div>
-
-
-        </div>
-      </div>
-
+          <!-- youtube end -->
     
     </section>
 
-   
+    <?php include 'footer.php' ?>

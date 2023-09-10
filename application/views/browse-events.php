@@ -188,8 +188,7 @@ font-weight:700;
         <div class="card event-card-medium h-100">
 
             
-              <div class="card-medium-img cmi-not-car">
-                  <img width="300" height="167" src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2-300x167.jpg" class="img-event-medium wp-post-image" alt="big 1200x668 2 - SolGold Market Update and Live Q&amp;A" decoding="async" data-lazy-srcset="https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2-300x167.jpg 300w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2-1024x570.jpg 1024w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2-768x428.jpg 768w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2-380x212.jpg 380w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2-539x300.jpg 539w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2-730x410.jpg 730w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2.jpg 1200w " data-lazy-sizes="(max-width: 300px) 100vw, 300px" title="SolGold Market Update and Live Q&amp;A" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2-300x167.jpg"><noscript><img width="300" height="167" src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2-300x167.jpg" class="img-event-medium wp-post-image" alt="big 1200x668 2 - SolGold Market Update and Live Q&amp;A" decoding="async" srcset="https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2-300x167.jpg 300w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2-1024x570.jpg 1024w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2-768x428.jpg 768w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2-380x212.jpg 380w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2-539x300.jpg 539w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2-730x410.jpg 730w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/07/big-1200x668-2.jpg 1200w " sizes="(max-width: 300px) 100vw, 300px" title="SolGold Market Update and Live Q&amp;A"></noscript> 
+              <div class="card-medium-img cmi-not-car"><iframe class="playlist-frame" src="https://www.youtube.com/embed/bTlDMnaWRhA" frameborder="0" allowfullscreen></iframe>
               </div>
 
             
@@ -239,7 +238,7 @@ font-weight:700;
 
             
               <div class="card-medium-img cmi-not-car">
-                  <img width="300" height="167" src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-78-300x167.jpg" sizes="(max-width: 300px) 100vw, 300px" title="Chesapeake Gold Market Update + Live Q&amp;A"></noscript> 
+              <iframe class="playlist-frame" src="https://www.youtube.com/embed/7nHG0yZ7hj8" frameborder="0" allowfullscreen></iframe> 
               </div>
 
             
@@ -289,7 +288,7 @@ font-weight:700;
 
             
               <div class="card-medium-img cmi-not-car">
-                  <img width="300" height="167" src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3-300x167.jpg" class="img-event-medium wp-post-image" alt="big 1200x668 3 - High-Interest Rates: Net-Good or a Detriment for Mining?" decoding="async" data-lazy-srcset="https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3-300x167.jpg 300w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3-1024x570.jpg 1024w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3-768x428.jpg 768w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3-380x212.jpg 380w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3-539x300.jpg 539w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3-730x410.jpg 730w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3.jpg 1200w " data-lazy-sizes="(max-width: 300px) 100vw, 300px" title="High-Interest Rates: Net-Good or a Detriment for Mining?" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3-300x167.jpg"><noscript><img width="300" height="167" src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3-300x167.jpg" class="img-event-medium wp-post-image" alt="big 1200x668 3 - High-Interest Rates: Net-Good or a Detriment for Mining?" decoding="async" srcset="https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3-300x167.jpg 300w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3-1024x570.jpg 1024w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3-768x428.jpg 768w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3-380x212.jpg 380w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3-539x300.jpg 539w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3-730x410.jpg 730w , https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/big-1200x668-3.jpg 1200w " sizes="(max-width: 300px) 100vw, 300px" title="High-Interest Rates: Net-Good or a Detriment for Mining?"></noscript> 
+              <iframe class="playlist-frame" src="https://www.youtube.com/embed/1LVUGQaZg9M" frameborder="0" allowfullscreen></iframe> 
               </div>
 
             
@@ -345,7 +344,7 @@ font-weight:700;
 
             
               <div class="card-medium-img cmi-not-car">
-                  <img width="300" height="167" src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/06/AA2022-landscape-day-2-300x167.jpg" sizes="(max-width: 300px) 100vw, 300px" title="Economic Cooperation Strategy Briefing"></noscript> 
+              <iframe class="playlist-frame" src="https://www.youtube.com/embed/QV288nIoG24" frameborder="0" allowfullscreen></iframe> 
               </div>
 
             
