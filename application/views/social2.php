@@ -252,7 +252,6 @@ padding: 0% 20% 3% 20%;
          <div class="row  mt-5">
       <div class="col-md-4 mb-4">
         <iframe class="playlist-frame" src="https://www.youtube.com/embed?listType=playlist&list=PLnXd6JvE9ju-xDVnIfM0YU99J0NOm0LYS" frameborder="0" allowfullscreen></iframe>
-          <h2>video title </h2>
         </div>
       <div class="col-md-4 mb-4">
         <iframe class="playlist-frame" src="https://www.youtube.com/embed?listType=playlist&list=PLnXd6JvE9ju_Qw1R5afc83N-OzQ39uyVO" frameborder="0" allowfullscreen></iframe>
@@ -282,6 +281,66 @@ padding: 0% 20% 3% 20%;
   </div>
 </div>
           <!-- youtube end -->
+
+          <div class="tab-pane fade" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-tab-5">
+
+<!-- twitter space start -->
+<section class="pt-0 pb-0">
+      <div class="container">
+        
+        <div class="row justify-content-center mb-none-30">
+          <div class="col-lg-6 col-md-6 mb-30">
+            <div class="blog-card">
+              <div class="blog-card__thumb">
+                <img class="imgsize" src="assets/images/space1.jpeg"  alt="image">
+              </div>
+              
+              <div class="blog-card__content">
+                <h4 class="blog-card__title mb-3"><a href="https://twitter.com/i/spaces/1vAxRAEmVXqJl">Join us Tuesday @10am ET as we learn all about @AIMLInnovations</a></h4>
+                <ul class="blog-card__meta d-flex flex-wrap mb-4">
+                  <li>
+                    <i class="las la-calendar"></i>
+                    <a href="https://twitter.com/i/spaces/1vAxRAEmVXqJl">18 April, 2023</a>
+                  </li>
+                </ul>
+                <p> $AIML AI/ML Innovations Inc is a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs</p>
+                <!-- <a href="#0" class="cmn-btn btn-md mt-4">Read More</a> -->
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-6 mb-30">
+            <div class="blog-card">
+              <div class="blog-card__thumb">
+                <img class="imgsize "src="assets/images/space2.jpeg" alt="image">
+              </div>
+              <div class="blog-card__content">
+                <h4 class="blog-card__title mb-3"><a href="https://twitter.com/i/spaces/1eaKbrWnVonKX">Join us live Thursday @8pm ET as we catch up with $FDR</a></h4>
+                <ul class="blog-card__meta d-flex flex-wrap mb-4">
+                <li>
+                    <i class="las la-calendar"></i>
+                    <a href="https://twitter.com/i/spaces/1eaKbrWnVonKX">31st August, 2023</a>
+                  </li>
+                </ul>
+                <p>Follow The Money Invest...@FoundersMetals President & CEO Colin Padget to discuss why his company is up 200% YOY in a down market
+<br><br></p>
+                <!-- <a href="#0" class="cmn-btn btn-md mt-4">Read More</a> -->
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 text-center">
+           <a href="<?php echo base_url("Twitter");?>" style="color: aliceblue;" class="cmn-btn btn-md mt-4">Explore More</a>
+        </div>
+          </section>
+    
+
+
+        </div>
+     
+  <!-- tab5 -->
+
+<!-- twitter soace end -->
+
+
         </div>
      
 
