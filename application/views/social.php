@@ -139,7 +139,7 @@ padding: 0% 20% 3% 20%;
 
 .playlist-frame {
       width: 100%;
-      height: 170px;
+      height: 240px;
       border: solid white 1px;
     }
     .playlist-frame:hover{
@@ -222,7 +222,7 @@ padding: 0% 20% 3% 20%;
          <!-- facebook start -->
          <div class="col-md-12" style="padding-left:28%">
 
-         <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFTMIGMining&tabs=timeline&width=700&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="750" height="750" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+         <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFTMIGMining&tabs=timeline&width=700&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="750" height="850" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
          </div>
           
