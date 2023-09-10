@@ -187,13 +187,13 @@ padding: 0% 20% 3% 20%;
   </h3>
         </a>
 
-        <!-- <a class="nav-link colorchange" id="v-pills-tab-5" data-toggle="pill" href="#v-pills-5" role="tab" aria-controls="v-pills-5" aria-selected="false">
+        <a class="nav-link colorchange" id="v-pills-tab-5" data-toggle="pill" href="#v-pills-5" role="tab" aria-controls="v-pills-5" aria-selected="false">
         <h3 >
     <img style="margin-top:-10px;" src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-download-twitter-png-transparent-image-and-clipart-8.png" width=30 height=30>
     Twitter spaces
    
     </h3>
-        </a> -->
+        </a>
 
         
       </div>
