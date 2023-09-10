@@ -212,7 +212,7 @@ h4.blog-card__title.mb-3 {
           <!-- instagram start -->
 
           <div class="col-md-12" style="padding-left:0%">
-               <iframe loading="lazy" src="https://www.instagram.com/ftminvest/embed" width="800" height="550" frameborder="0" scrolling="yes" allowtransparency="true"></iframe>
+               <iframe loading="lazy" src="https://www.instagram.com/ftminvest/embed" width="800" height="740" frameborder="0" scrolling="yes" allowtransparency="true"></iframe>
      
             </div>
           <!-- instagram end -->
@@ -227,7 +227,7 @@ h4.blog-card__title.mb-3 {
          <!-- facebook start -->
          <div class="col-md-12" style="padding-left:28%">
 
-         <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFTMIGMining&tabs=timeline&width=500&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="750" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+         <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFTMIGMining&tabs=timeline&width=500&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="750" height="740" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
          </div>
           
@@ -241,7 +241,7 @@ h4.blog-card__title.mb-3 {
          <!-- twitter start -->
          <div class="col-md-12" style="padding-left:0%">
 
-         <a class="twitter-timeline" data-height="550" data-width="800" href="https://twitter.com/FTMInvest?ref_src=twsrc%5Etfw">Tweets by FTMInvest</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+         <a class="twitter-timeline" data-height="740" data-width="800" href="https://twitter.com/FTMInvest?ref_src=twsrc%5Etfw">Tweets by FTMInvest</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
          
          </div>
          <!-- twitter  end -->
