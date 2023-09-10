@@ -328,8 +328,10 @@ padding: 0% 20% 3% 20%;
               </div>
             </div>
           </div>
+          <div class="col-md-12 text-center">
            <a href="<?php echo base_url("Twitter");?>" style="color: aliceblue;" class="cmn-btn btn-md mt-4">Explore More</a>
-    </section>
+        </div>
+          </section>
     
 
 
