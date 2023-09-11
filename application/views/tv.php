@@ -200,128 +200,128 @@ box-shadow: -1px -1px 14px 1px rgba(231,166,26,1);
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/hVvFkmDK-DU" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 166</h3>
+            <h3>Green River Gold Joins the Morning Drive at VRIC</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/svYANb7yV2I" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 17</h3>
+            <h3>Rockhaven Resources Joins the Morning Drive at VRIC</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/4CAjYK3rs5Y" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 18</h3>
+            <h3>Sokoman Minerals Joins FTMIG for the Morning Drive</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/1vlIrIauxvY" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 19</h3>
+            <h3>Canalaska Uranium Ltd. Joined the Morning Drive with attending VRIC2023</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/AWT0fRkPjYY" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 20</h3>
+            <h3>Mickey Fulp Joins the Morning Drive While Attending VRIC2023</h3>
         </div>
 <!-- 3 -->
 <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/iItxStHgFp4" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 21</h3>
+            <h3>FTMIG Hosts John Newell on the Morning Drive</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/vNAdfbETsLA" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 22</h3>
+            <h3>The Morning Drive hosts Simon Moores of Benchmark Mineral Intelligence</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/jl0gv6yT7OQ" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 23</h3>
+            <h3>The Morning Drive Hosts Gwen Preston-Resource Maven</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/Ibxnq4wviz0" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 24</h3>
+            <h3>Fission Uranium joins the Morning Drive ahead of PDAC2023</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/a4FGuRWxOis" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 25</h3>
+            <h3>FTMIG hosts Westhaven Gold Corp. on the Morning Drive</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/ANOfPxtG_Hw" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 26</h3>
+            <h3>Cassiar Gold joined the Morning Drive while in town for PDAC2023</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/Sh5gLvWr2rA" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 27</h3>
+            <h3>FTMIG Hosts Sonoro Gold Corp. on the Morning Drive</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/AUfZ6_55Mm8" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 28</h3>
+            <h3>FTMIG Hosts Power Nickel during PDAC2023</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/HRBH8KQ7sj4" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 29</h3>
+            <h3>TocVan Ventures Corp. Joined the Morning Drive during PDAC2023</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/P6E0XMh8hfQ" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 30</h3>
+            <h3>FTMIG hosts First Mining Gold Corp. on the Morning Drive</h3>
 
             </div>
             <!-- 4 -->
             <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/voQwBSh8220" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 31</h3>
+            <h3>Sixty North Gold joins the Morning Drive</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/eFpmw3jwADI" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 32</h3>
+            <h3>Pelangio Exploration joins the Morning Drive with attending PDAC2023</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/QFzjl--YYQk" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 33</h3>
+            <h3>Grid Metals Corp. hosted by FTMIG on the Morning Drive</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/-bU3o7TJiaE" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 34</h3>
+            <h3>Baselode Energy joins the Morning Drive</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/-uKVpwlTrnk" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 35</h3>
+            <h3>FTMIG Hosts The Metals Company</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/VTAoRGt7JRw" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 36</h3>
+            <h3>FTMIG Hosts Romios Gold Resources Inc. on the Morning Drive</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/RU1AoIKuA_A" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 37</h3>
+            <h3>Daniel Foch joins FTMIG for a Morning Drive</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/WiowyAZsqi8" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 38</h3>
+            <h3>FTMIG hosts Vizsla Silver Corp. on the Morning Drive Segment</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/yH48agXJDqo" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 39</h3>
+            <h3>Rackla Metals joins the Morning Drive</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/E8pV9KAJizk" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 40</h3>
+            <h3>FTMIG Hosts i-80 Gold Corp on the Morning Drive</h3>
         </div>
 
         <!-- 5 -->
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/kyS645sx2s0" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 41</h3>
+            <h3>FTMIG Hosts Galiano Gold on the Morning Drive</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/biiUEb0fxrQ" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 42</h3>
+            <h3>FTMIG Hosts Marathon Gold on the Morning Drive</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/WY7RIinHUVw" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 43</h3>
+            <h3>TomaGold joins the Morning Drive Segment</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/mZpJzjNxUuk" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 44</h3>
+            <h3>Diamcor Mining Inc. Joins the Morning Drive</h3>
         </div>
         <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/Yhq0NR5QxWU" frameborder="0" allowfullscreen></iframe>
-            <h3>Video Title 45</h3>
+            <h3>Founders Metals joins the Morning Drive</h3>
         </div>
         <!-- <div class="col-md-4 mb-4">
             <iframe class="playlist-frame" src="https://www.youtube.com/embed/mF5WnKQbuHs" frameborder="0" allowfullscreen></iframe>
