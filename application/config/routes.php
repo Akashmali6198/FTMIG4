@@ -97,7 +97,7 @@ $route['Pricing'] = 'WebController/Pricing';
 $route['Security'] = 'WebController/Security';
 $route['registration'] = 'WebController/registration';
 $route['social2'] = 'WebController/social2';
-
+$route['issuer'] = 'WebController/issuer';
 
 
 

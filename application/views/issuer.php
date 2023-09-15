@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+
 
 <style>
 /* issuer title  style */
@@ -1423,4 +1423,3 @@ listItems.forEach((li) => {
 
 </script>
 
-<?php include 'footer.php' ?>

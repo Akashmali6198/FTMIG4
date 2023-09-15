@@ -188,6 +188,10 @@ class WebController extends CI_Controller {
 		$this->load->view('social2.php');
 		$this->load->view('components/footer.php');   
 	}
-	
+	public function issuer(){
+	    $this->load->view('components/header.php');
+		$this->load->view('issuer.php');
+		$this->load->view('components/footer.php');   
+	}
 
 }
