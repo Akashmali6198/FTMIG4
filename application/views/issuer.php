@@ -190,6 +190,10 @@ i.fa-light.fal.fa-microphone {
 li.col-12 {
     margin-bottom: 4px;
 }
+section.dashboard-content-wrapper {
+    padding-left: 4%;
+    padding-right: 4%;
+}
 </style>
 
 <section class="dashboard-hello">
