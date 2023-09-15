@@ -86,8 +86,7 @@
                 </li>
               </ul> 
               <select class="select d-inline-block w-auto ml-xl-3">
-                <option><a href="<?php echo base_url("issuer");?>">ISSUER</a></option>
-                <option>INVESTOR</option>
+                <option>Eng</option>
                 <!-- <option>Ban</option>
                 <option>Hin</option> -->
               </select>
