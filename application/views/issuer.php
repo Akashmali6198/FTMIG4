@@ -324,7 +324,7 @@ li.col-12 {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/host/press.png" class="dash-product-image">
                            <p>A presentation-style event to share the lastest company updates with your investor community and answer their questions live.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
  
@@ -335,7 +335,7 @@ li.col-12 {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/host/general-meeting.png" class="dash-product-image">
                            <p>A presentation-style event to share the lastest company updates with your investor community and answer their questions live.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -350,7 +350,7 @@ li.col-12 {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/host/year-review.png" class="dash-product-image">
                            <p>An summary event released on an annual basis to cover your company’s highlights over the past year.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -360,7 +360,7 @@ li.col-12 {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/host/pre-recorded.png" class="dash-product-image">
                            <p>An pre-recorded event, played for a live audience of investors. </p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -375,7 +375,7 @@ li.col-12 {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/host/solo-summit.png" class="dash-product-image">
                            <p>A digital event where companies can speak directly to investors and get questions and immediate feedback.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -385,7 +385,7 @@ li.col-12 {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/host/private-summit.png" class="dash-product-image">
                            <p>An invite-only summit closed to the general public. </p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col--> 
 
@@ -399,7 +399,7 @@ li.col-12 {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/host/6-min-update.png" class="dash-product-image">
                            <p>A quick corporate update to allow investors to keep up to date with your company’s activites.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -421,7 +421,7 @@ li.col-12 {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/host/edu.png" class="dash-product-image">
                            <p>A multi-part event series discussing various macro-economic topics with the goal of educating investors.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -432,7 +432,7 @@ li.col-12 {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/host/chat.png" class="dash-product-image">
                            <p>A personal and interactive discussion allowing investors  to gain insights into the speaker’s personal stories and thoughts on industry topics.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -449,7 +449,7 @@ li.col-12 {
                            <p>A digital event where, as a group (typically 3-5), companies and institutions answer questions posed 
                                 by an experienced moderator.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -459,7 +459,7 @@ li.col-12 {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/host/pitch-battle.png" class="dash-product-image">
                            <p>Two companies will participate in a ‘battle’, pitching their company to an audience of investors who will select their favourite.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -486,7 +486,7 @@ li.col-12 {
                                             <h3>Grow Your Email List</h3>
                                            <p class="idsidep">Advisory and implementation of an ads campaign designed to grow your investor community.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -506,7 +506,7 @@ li.col-12 {
                                             <h3>Get Visitors to Your PR</h3>
                                            <p class="idsidep">Advisory and implementation of an ads campaign designed draw more investors to your lastest press release.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -531,7 +531,7 @@ li.col-12 {
                                             <h3>Promote Your Website</h3>
                                            <p class="idsidep">Advisory and implementation of an ads campaign designed to drive traffic to your company website.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -551,7 +551,7 @@ li.col-12 {
                                             <h3>Promote Your Page on 6ix</h3>
                                            <p class="idsidep">Advisory and implementation of an ads campaign designed to grow your investor community.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -576,7 +576,7 @@ li.col-12 {
                                             <h3>Promote Your YouTube</h3>
                                            <p class="idsidep">Advisory and implementation of an ads campaign designed to increase the viewcount on your YouTube videos.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -596,7 +596,7 @@ li.col-12 {
                                             <h3>Promote Your Twitter</h3>
                                            <p class="idsidep">Advisory and implementation of an ads campaign designed to increase the reach of your company Twitter account.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -622,7 +622,7 @@ li.col-12 {
                                              <h3>Promote Your Facebook</h3> 
                                            <p class="idsidep">Advisory and implementation of an ads campaign designed to increase the reach of your company Facebook account.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -643,7 +643,7 @@ li.col-12 {
                                              <h3>Promote Your LinkedIn</h3>
                                            <p class="idsidep">Advisory and implementation of an ads campaign designed to increase the reach of your company LinkedIn account.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -667,7 +667,7 @@ li.col-12 {
                                             <h3>Promote Your Event</h3>
                                            <p class="idsidep">Advisory and implementation of an ads campaign designed to increase the amount of registrants and attendees at your event.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -688,7 +688,7 @@ li.col-12 {
                                             <h3>Promote Your Instagram</h3>
                                            <p class="idsidep">Advisory and implementation of an ads campaign designed to increase the reach of your company Instagram account.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -713,7 +713,7 @@ li.col-12 {
                                             <h3>Video Ads</h3>
                                            <p class="idsidep">Advisory and implementation of an ads campaign on featuring video content.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -732,7 +732,7 @@ li.col-12 {
                                             <h3>Native Ads</h3>
                                            <p class="idsidep">Advisory and implementation of an ads campaign of sponsored content featured across investor-oriented websites.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -758,7 +758,7 @@ li.col-12 {
                                             <h3>Facebook Ads</h3>
                                            <p class="idsidep">Advisory and implementation of a Facebook ads campaign, with a customizable goal.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -778,7 +778,7 @@ li.col-12 {
                                             <h3>LinkedIn Ads</h3>
                                            <p class="idsidep">Advisory and implementation of a LinkedIn ads campaign, with a customizable goal..</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -803,7 +803,7 @@ li.col-12 {
                                             <h3>Display Banners</h3>
                                            <p class="idsidep">Advisory and implementation of display ads on 6ix's network, charged by impression.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -824,7 +824,7 @@ li.col-12 {
                                             <h3>Google Display &amp; Search Ads </h3>
                                           <p class="idsidep">Advisory and implementation of Google ads (including development of copy drafts and visual assets).</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -850,7 +850,7 @@ li.col-12 {
                                             <h3>Facebook Lead-Gen Ads</h3>
                                            <p class="idsidep">Advisory and implementation of Facebook ads (including development of copy drafts and visual assets).</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -882,7 +882,7 @@ li.col-12 {
                                             <h3>Welcome Emails</h3>
                                            <p class="idsidep">A Drip Campaign consists of a series of up to three emails that an investor receives after subscribing to a company. It includes Welcome, Project Overview, and Contact Us emails.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -903,7 +903,7 @@ li.col-12 {
                                             <h3>Press Release</h3>
                                            <p class="idsidep">Publish emails and social posts after press releases cross the wire.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -929,7 +929,7 @@ li.col-12 {
                                              <h3>Event Invite</h3>
                                            <p class="idsidep">A personal invitation email to your shareholders about your upcoming event. </p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -950,7 +950,7 @@ li.col-12 {
                                             <h3>Meeting Invite</h3>
                                            <p class="idsidep">An email invitation with the goal of setting up investor meetings with a representative from your company.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -976,7 +976,7 @@ li.col-12 {
                                              <h3>Investor Newsletter</h3>
                                            <p class="idsidep">Keep your shareholders up to date on your company’s latest news and engagements.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -997,7 +997,7 @@ li.col-12 {
                                             <h3>General Update</h3>
                                            <p class="idsidep">One-off setup and implementation for investors. Bespoke for each client but frequently includes letters from CEO, news releases, upcoming events, and recent media.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -1023,7 +1023,7 @@ li.col-12 {
                                             <h3>Ask Me Anything</h3>
                                            <p class="idsidep">Compilation of questions from summits hosted on 6ix, written in text format.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -1043,7 +1043,7 @@ li.col-12 {
                                              <h3>Investor Update</h3>
                                            <p class="idsidep">Email newsletter setup and implementation for investors. Bespoke for each client but frequently includes letters from CEO, news releases, upcoming events, and recent media.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -1076,7 +1076,7 @@ li.col-12 {
                                             <h3>Twitter</h3>
                                            <p class="idsidep">Twitter profile management including content creation, publishing and promotion.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -1096,7 +1096,7 @@ li.col-12 {
                                               <h3>Facebook</h3>
                                            <p class="idsidep">Facebook page management including content creation, publishing and promotion.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -1122,7 +1122,7 @@ li.col-12 {
                                             <h3>LinkedIn</h3>
                                            <p class="idsidep">LinkedIn page management including content creation, publishing and promotion.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -1142,7 +1142,7 @@ li.col-12 {
                                             <h3>YouTube</h3>
                                            <p class="idsidep">YouTube channel management include video production, publishing, and promotion.</p>
 
-                                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
                                          </div><!--end-col-->
 
@@ -1169,7 +1169,7 @@ li.col-12 {
                              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/manage/landing.png" class="dash-product-image">
                            <p>Set up and implementation for the landing page of your company website.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -1179,7 +1179,7 @@ li.col-12 {
                             <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/manage/web.png" class="dash-product-image">
                            <p>Set up and implementation for a one-off page on your company website.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -1194,7 +1194,7 @@ li.col-12 {
                           <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/manage/blog.png" class="dash-product-image">
                            <p>Set up and implementation for a blog post on your website.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -1204,7 +1204,7 @@ li.col-12 {
                             <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/manage/investor.png" class="dash-product-image">
                            <p>Set up and implementation of an investment portal on your company website. Share the lastest press releases, corporate presentations and more on one dynamic page.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -1227,7 +1227,7 @@ li.col-12 {
                              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/creatives/short.png" class="dash-product-image">
                            <p>Request short video clips that can be used for your investor outreach campaigns.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -1237,7 +1237,7 @@ li.col-12 {
                              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/creatives/long.png" class="dash-product-image">
                            <p>Request short video clips that can be used for your investor outreach campaigns.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -1252,7 +1252,7 @@ li.col-12 {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/creatives/ad.png" class="dash-product-image">
                            <p>Request designs that can be used for advertisement campaigns.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -1262,7 +1262,7 @@ li.col-12 {
                             <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/creatives/social.png" class="dash-product-image">
                            <p>Request designs that can be used for social media campaigns.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -1277,7 +1277,7 @@ li.col-12 {
                             <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/creatives/landing.png" class="dash-product-image">
                            <p>Request a design that can be used for your company landing page.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -1287,7 +1287,7 @@ li.col-12 {
                                <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/creatives/popup.png" class="dash-product-image">
                            <p>Request a design that can be used for a pop up on your company website.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -1310,7 +1310,7 @@ li.col-12 {
                             <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/analytics/overall.png" class="dash-product-image">
                            <p>An overview of all of the metrics that are aligned with your goals and business outcomes.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -1320,7 +1320,7 @@ li.col-12 {
                               <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/analytics/summit.png" class="dash-product-image">
                            <p>Review the metrics related to the historical performance of your company’s summits on 6ix.com.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -1335,7 +1335,7 @@ li.col-12 {
                             <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/analytics/social.png" class="dash-product-image">
                            <p>Review the metrics related to the historical performance of your company’s social media campaigns.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -1345,7 +1345,7 @@ li.col-12 {
                             <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/analytics/email.png" class="dash-product-image">
                            <p>Review the metrics related to the historical performance of your company’s email campaigns.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -1360,7 +1360,7 @@ li.col-12 {
                             <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/analytics/ads.png" class="dash-product-image">
                            <p>Review the metrics related to the historical performance of your company’s ad campaigns.Review the metrics related to the historical performance of your company’s ad campaigns.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -1370,7 +1370,7 @@ li.col-12 {
                              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/analytics/peer.png" class="dash-product-image">
                            <p>Compare your company’s overall metrics with peers within your industry.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/demo/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Demo</a>Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
