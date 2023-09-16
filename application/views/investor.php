@@ -299,7 +299,7 @@ section.dashboard-content-wrapper {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/investors/upcoming.png" class="dash-product-image">
                            <p>Browse and register for upcoming summits, panels, courses and conferences.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/investment-discovery/live/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"> <a href="<?php echo base_url("event");?>">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -307,9 +307,9 @@ section.dashboard-content-wrapper {
 
                            <h3>On-Demand Events</h3>
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/investors/ondemand.png" class="dash-product-image">
-                           <p>Browse the complete library of all events hosted on 6ix.</p>
+                           <p>Browse the complete library of all events hosted on ftmig.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/investment-discovery/tv/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("tv");?>">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -324,7 +324,7 @@ section.dashboard-content-wrapper {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/investors/markets.png" class="dash-product-image">
                            <p>Track all markets: stocks, indices, futures, bonds, currencies, and cryptocurrencies.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/investment-discovery/markets/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("#");?>">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -334,7 +334,7 @@ section.dashboard-content-wrapper {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/investors/magazine.png" class="dash-product-image">
                            <p>Read, write, and connect with investors, analysts and companies.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/magazine/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("magzine");?>">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -347,9 +347,9 @@ section.dashboard-content-wrapper {
 
                            <h3>Companies</h3>
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/investors/companies.png" class="dash-product-image">
-                           <p>Browse the companies featured on 6ix.com and watch their latest events.</p>
+                           <p>Browse the companies featured on ftmig.ca and watch their latest events.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/companies/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("companie");?>" style="color: aliceblue;" >Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -374,7 +374,7 @@ section.dashboard-content-wrapper {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/investors/chat.png" class="dash-product-image">
                            <p>Chat with likeminded individuals about the companies you're following.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/investment-discovery/chat/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("chat");?>">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
@@ -384,7 +384,7 @@ section.dashboard-content-wrapper {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/investors/courses.png" class="dash-product-image">
                            <p>Learn more about the topics that interest you.</p>
 
-                           <div class="pdc-link"><a href="https://6ix.com/browse-events/">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("browse_events");?>">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
