@@ -374,7 +374,7 @@ section.dashboard-content-wrapper {
                            <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/investors/chat.png" class="dash-product-image">
                            <p>Chat with likeminded individuals about the companies you're following.</p>
 
-                           <div class="pdc-link"><a href="<?php echo base_url("chat");?>">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+                           <div class="pdc-link"><a href="<?php echo base_url("#");?>">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          
                          </div><!--end-col-->
 
