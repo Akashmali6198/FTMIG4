@@ -218,7 +218,7 @@ section.dashboard-content-wrapper {
  
                     <h2 class="hello-user">Hello Username </h2>
 
-                    <p class="hello-user-welcome">Welcome to the 6ix Investor Experience (IX) Platform</p>
+                    <p class="hello-user-welcome">Welcome to the ftmig Investor Experience (IX) Platform</p>
 
                    <p class="hello-user-welcome-small">Everything you need to deliver great investor experiences: Attract new investors, engage shareholders, and build relationships with analysts.</p>
 
@@ -552,7 +552,7 @@ section.dashboard-content-wrapper {
                                           </div><!--end-col-->
 
                                            <div class="col-12 col-md-7">
-                                            <h3>Promote Your Page on 6ix</h3>
+                                            <h3>Promote Your Page on ftmig</h3>
                                            <p class="idsidep">Advisory and implementation of an ads campaign designed to grow your investor community.</p>
 
                                            <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
@@ -805,7 +805,7 @@ section.dashboard-content-wrapper {
 
                                            <div class="col-12 col-md-7">
                                             <h3>Display Banners</h3>
-                                           <p class="idsidep">Advisory and implementation of display ads on 6ix's network, charged by impression.</p>
+                                           <p class="idsidep">Advisory and implementation of display ads on ftmig's network, charged by impression.</p>
 
                                            <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
@@ -1025,7 +1025,7 @@ section.dashboard-content-wrapper {
 
                                            <div class="col-12 col-md-7">
                                             <h3>Ask Me Anything</h3>
-                                           <p class="idsidep">Compilation of questions from summits hosted on 6ix, written in text format.</p>
+                                           <p class="idsidep">Compilation of questions from summits hosted on ftmig, written in text format.</p>
 
                                            <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
                          
@@ -1322,7 +1322,7 @@ section.dashboard-content-wrapper {
 
                            <h3>Summit Dashboard</h3>
                               <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/product-dashboard/analytics/summit.png" class="dash-product-image">
-                           <p>Review the metrics related to the historical performance of your company’s summits on 6ix.com.</p>
+                           <p>Review the metrics related to the historical performance of your company’s summits on ftmig.ca</p>
 
                            <div class="pdc-link"><a href="<?php echo base_url("Demo");?>">Start <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
          

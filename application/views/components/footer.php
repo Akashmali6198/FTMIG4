@@ -129,6 +129,7 @@ display:block!important
             <li> <a href="<?php echo base_url("Twitter");?>" style="color: aliceblue;" >Twitter Spaces</a></li>  
             <li> <a href="<?php echo base_url("social2");?>" style="color: aliceblue;" >social2</a></li> 
             <li> <a href="<?php echo base_url("issuer");?>"style="color: aliceblue;">ISSUER</a></li>
+            <li> <a href="<?php echo base_url("investor");?>"style="color: aliceblue;">INVESTOR</a></li>
           </ul>  
         </div>  
       </div>  

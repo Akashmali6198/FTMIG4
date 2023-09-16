@@ -98,6 +98,6 @@ $route['Security'] = 'WebController/Security';
 $route['registration'] = 'WebController/registration';
 $route['social2'] = 'WebController/social2';
 $route['issuer'] = 'WebController/issuer';
-
+$route['investor'] = 'WebController/investor';
 
 
